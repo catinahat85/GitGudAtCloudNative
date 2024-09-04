@@ -4,7 +4,7 @@ Welcome to the repository! Here, you'll find a collection of resources designed 
 
 ## Contents
 - [E-books for Kids and Beginners](#e-books-for-kids-and-beginners)
-- [When 2 Kubernetes GPT - Evaluate if K8s is right for your business](#when2k8sgpt)
+- [When 2 Kubernetes GPT Assessment Tool](#When-2-K8s-Evaluation-GPT)
 - [Learning Pathways and Certification Costs](#learning-pathways-and-certification-costs)
 - [Spanish Version](#spanish-version)
 
@@ -13,7 +13,7 @@ Welcome to the repository! Here, you'll find a collection of resources designed 
 - [E-books Collection](./ebooks/README.md)
 
 ## When 2 K8s Evaluation GPT
-- Use my custom GPT instance to help small and midsize enterprises determine when and how to deploy Kubernetes.
+- Use my custom GPT instance to Evaluate if K8s is right for your business, trained to help small and midsize enterprises determine when and how to deploy Kubernetes.
 - [Evaluate Kubernetes Deployment](./when2k8sgpt.md)
 
 ## Learning Pathways and Certification Costs
