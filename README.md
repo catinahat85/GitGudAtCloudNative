@@ -5,7 +5,9 @@ Welcome to the repository! Here, you'll find a collection of resources designed 
 ## Contents
 - [E-books for Kids and Beginners](#e-books-for-kids-and-beginners)
 - [When 2 Kubernetes GPT Assessment Tool](#When-2-K8s-Evaluation-GPT)
-- [Learning Pathways and Certification Costs](#learning-pathways-and-certification-costs)
+- [Learning Pathways and Certification Costs](#learning-pathways)
+- [Learning Resources](#learning-resources)
+- [For Free? (Certifications)](#for-free)
 - [Spanish Version](#spanish-version)
 
 ## E-books for Kids and Beginners
@@ -14,12 +16,20 @@ Welcome to the repository! Here, you'll find a collection of resources designed 
 
 ## When 2 K8s Evaluation GPT
 - Use my custom GPT instance to Evaluate if K8s is right for your business, trained to help small and midsize enterprises determine when and how to deploy Kubernetes.
-- [Evaluate Kubernetes Deployment](./when2k8sgpt.md)
+- [Evaluate Kubernetes Deployment](./When-2-K8s-Evaluation-GPT.md)
 
-## Learning Pathways and Certification Costs
-- Find detailed learning pathways for cloud computing beginners, along with cost estimates for certifications and low-cost/free resources.
+## Learning Pathways
+- Find detailed learning pathways for cloud/native computing beginners, with options, ideas, and associated costs for whatever path interests you in cloud computing..
+- [Learning Pathways](./learning-pathways/README.md)
+
+## Learning Resources
+- Low-cost/free resources for learning cloud computing, cloud-native, Linux, IaC etc. 
 - [Learning Pathways](./learning-resources/README.md)
+
+## FOR FREE?
+- Earn Professional Credentials for free or for a low cost. Kick start your resume.
+- [Learning Pathways](./freecertifications/README.md)
 
 ## Spanish Version
 - This repository is also available in Spanish. Click the link below to access all the resources in Spanish.
-- [Versión en Español](./spanish/README.md)
+- [Versión en Español](./spanish-version/README.md)
