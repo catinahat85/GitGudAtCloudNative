@@ -1,20 +1,25 @@
-# Books
-These books are published under a Creative Commons Attribution 4.0 International License (CC-BY 4.0).
+# Kubernetes Learning Resources & Tools for those new to Kubernetes
 
-Written and illustrated by Jake & Lorisa Pineda, using the assistance Generative AI (GPT 4)
+Welcome to the repository! Here, you'll find a collection of resources designed to help both beginners and small enterprises understand and deploy Kubernetes (k8s). Whether you're looking for beginner-friendly materials, children's books that explain complex concepts in simple terms (or how to explain to your kids what you do), or tools to evaluate Kubernetes deployment, we've got you covered.
 
+## Contents
+- [E-books for Kids and Beginners](#e-books-for-kids-and-beginners)
+- [When 2 Kubernetes GPT - Evaluate if K8s is right for your business](#when2k8sgpt)
+- [Learning Pathways and Certification Costs](#learning-pathways-and-certification-costs)
+- [Spanish Version](#spanish-version)
 
-Disclaimer:
-These books are creative works and are neither made, endorsed, nor sanctioned by the Cloud Native Computing Foundation (CNCF) or The Linux Foundation. The content and narratives in this book are the product of the author's imagination and are used fictitiously. Any resemblance to actual events, locales, real persons, living or dead, or actual entities is purely coincidental. This book does not imply any affiliation with or endorsement by the CNCF or The Linux Foundation.
+## E-books for Kids and Beginners
+- Explore the collection of PDF e-books that explain Kubernetes and cloud computing concepts in a way that's easy to understand for kids and beginners.
+- [E-books Collection](./ebooks/README.md)
 
-The characters Phippy, Captain Kube, Zee, Linky and Hazel are owned by The Linux Foundation, on behalf of the Cloud Native Computing Foundation, and licensed under the Creative Commons Attribution License (CC-BY), which means that you can remix, transform, and build upon the material for any purpose, even commercially. If you use the characters, please include the text “phippy.io” to provide attribution (and online, please include a link to https://phippy.io).
-Goldie is based on the Go Gopher, created by Renee French, which is also licensed under CC-BY.
-Images of Phippy, Captain Kube, Goldie, Zee, Linky and Hazel are available in the CNCF artwork repo in svg and png formats and in color, black, and white.
-The characters Phippy, Captain Kube, Zee, and the books: The Illustrated Children’s Guide to Kubernetes and Phippy goes to the Zoo, were created by Matt Butcher, Karen Chu, and Bailey Beougher and donated by Microsoft to CNCF. 
-Linky was donated to the CNCF by Buoyant, and represents the Linkerd project. Hazel was donated to the CNCF by Helm maintainers Matt Butcher and Karen Chu, and represents the Helm project.
+## When 2 K8s Evaluation GPT
+- Use my custom GPT instance to help small and midsize enterprises determine when and how to deploy Kubernetes.
+- [Evaluate Kubernetes Deployment](./when2k8sgpt.md)
 
-CNCF and the CNCF logo design are registered trademarks of the Cloud Native Computing Foundation.
-Goldie is based on the Go Gopher, created by Renee French, which is also licensed under CC-BY.
+## Learning Pathways and Certification Costs
+- Find detailed learning pathways for cloud computing beginners, along with cost estimates for certifications and low-cost/free resources.
+- [Learning Pathways](./learning-resources/README.md)
 
-https://phippy.io
-phippy.io
+## Spanish Version
+- This repository is also available in Spanish. Click the link below to access all the resources in Spanish.
+- [Versión en Español](./spanish/README.md)
