@@ -1,8 +1,8 @@
-## Kubernetes Learning Resources
-Here you will find resources to help you understand and learn Cloud Computing and Cloud Native, including the different hyperscalers and Kubernetes, Delta Lake and AI.
+## My Aggregated Study Notes
+- **[Study Notes](https://docs.google.com/document/d/19lG0L7_CheG7Gqi-TWkH_cCyuAzNlYNLbrdru0WdH-4/pub)**: Taken from a variety of sources, including the official docs, they have been beneficial when I have been stuck.
 
-
-- **[Study Notes](https://docs.google.com/document/d/19lG0L7_CheG7Gqi-TWkH_cCyuAzNlYNLbrdru0WdH-4/pub)**: My aggregated Kubernetes study notes that I frequently refer back to when I get stuck.
+## Kubernetes Hands-On Learning Resources
+Here you will find resources to help you play with Kubernetes and get hands-on.
 
 - **[Google Cloud Kubernetes Lab](https://www.cloudskillsboost.google/course_templates/783)**: Hands-on Kubernetes lab offered by Google Cloud.
 
