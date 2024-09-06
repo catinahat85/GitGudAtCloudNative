@@ -46,3 +46,18 @@ Here you will find resources to help you practice Kubernetes with real-world, ha
 
 - **[IBM Kubernetes Service Tutorials](https://www.ibm.com/products/kubernetes-service/kubernetes-tutorials)**: IBM’s collection of Kubernetes tutorials to help you get started with managing applications in Kubernetes clusters using the IBM Kubernetes Service.
 
+---
+
+## Installing Kubernetes Locally
+Ready to start working with K8s locally? Here are some ways to do it. Docker Desktop and Multipass are probably easiest, but if you are up for it, spin up Minikube or K3s!
+
+
+- **[MicroK8s with Multipass](https://microk8s.io/docs/install-multipass)**: MicroK8s is a small, fast, and secure Kubernetes installation from Canonical, ideal for local setups. Multipass creates isolated VMs to run MicroK8s, simplifying the process of spinning up Kubernetes clusters on your local machine.
+
+- **[Docker Desktop Kubernetes](https://docs.docker.com/desktop/kubernetes/)**: Docker Desktop includes a simple way to enable a single-node Kubernetes cluster on your local machine. If you are already using Docker for container development, this is an easy way to integrate Kubernetes into your workflow.
+
+- **[Minikube](https://minikube.sigs.k8s.io/docs/)**: Minikube is a tool that lets you run Kubernetes locally on your machine. It supports all Kubernetes features and is an excellent option for beginners who want a full Kubernetes experience on their local machine.
+
+- **[K3s](https://k3s.io/)**: Lightweight Kubernetes distribution by Rancher Labs. K3s is a simplified and minimal installation of Kubernetes that works well for local development and testing, particularly on edge devices or low-resource environments.
+
+
