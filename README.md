@@ -24,7 +24,7 @@ Welcome to the repository! Here, you'll find a collection of resources designed 
 
 ## Learning Resources
 - Low-cost/free resources for learning cloud computing, cloud-native, Linux, IaC etc. 
-- [Learning Pathways](./learning-resources/README.md)
+- [Learning Resources](./learning-resources/README.md)
 
 ## FOR FREE?
 - Earn Professional Credentials for free or for a low cost. Kick start your resume.
