@@ -5,7 +5,7 @@ I call this series *Ease into Kubernetes/K8s*. I hope this could spark their int
 
 **Recommended for ages 0-8**
 
-- **[Cloud Sisters - Attack Of The Spector](https://tinyurl.com/csaotsk8s)**
+- **[Cloud Sisters - Attack Of The Spector](ebooks/Banani & Cuncsters meet Phippy and the Cloud Natives .pdf)**
   
 - **[Cloud Sisters - The Lunch Container Tour](https://tinyurl.com/cstlctk8s)**
 
