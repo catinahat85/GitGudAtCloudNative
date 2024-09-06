@@ -39,7 +39,7 @@ Not sure what Kubernetes (K8s) is? Start here with these foundational courses.
 ## K8s Video Theory 
 A couple of reccomended videos that explain Kubernetes concepts, uses cases etc.
 
-- **[Learn Kubernetes - KodeKloud](https://youtu.be/X48VuDVv0do?si=KJVDeOOHSUJxkQpF)**: A comprehensive beginner-friendly introduction to Kubernetes by KodeKloud, covering the core concepts and practical demonstrations.
+- **[Learn Kubernetes - KodeKloud](https://youtu.be/XuSQU5Grv1g?si=cRYIMRJ74BC4FiT0)**: A comprehensive beginner-friendly introduction to Kubernetes by KodeKloud, covering the core concepts and practical demonstrations.
 
 - **[Kubernetes Tutorial - Techworld with Nana](https://youtu.be/X48VuDVv0do?si=WtiwUqi1CHDnJum_)**: Another excellent Kubernetes tutorial by Techworld with Nana, offering clear explanations and hands-on examples.
 
