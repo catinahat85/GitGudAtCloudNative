@@ -5,6 +5,8 @@
 2. [My Aggregated Study Notes, Perfect for KCNA](#my-aggregated-study-notes)
 3. [Introductory Kubernetes Courses](#introductory-kubernetes-courses)
 4. [Kubernetes Hands-On Learning Resources](#kubernetes-hands-on-learning-resources)
+5. [Installing Kubernetes Locally?](#installing-kubernetes-locally?)
+
 
 ---
 
@@ -48,7 +50,7 @@ Here you will find resources to help you practice Kubernetes with real-world, ha
 
 ---
 
-## Installing Kubernetes Locally
+## Installing Kubernetes Locally?
 Ready to start working with K8s locally? Here are some ways to do it. Docker Desktop and Multipass are probably easiest, but if you are up for it, spin up Minikube or K3s!
 
 
