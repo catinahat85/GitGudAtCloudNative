@@ -7,7 +7,7 @@ I call this series *Ease into Kubernetes/K8s*. I hope this could spark their int
 
 - **[Cloud Sisters - Attack Of The Spector](https://github.com/catinahat85/gitgudatcloudnative/blob/main/ebooks/Banani%20%26%20Cuncsters%20meet%20Phippy%20and%20the%20Cloud%20Natives%20.pdf)**
   
-- **[Cloud Sisters - The Lunch Container Tour](https://tinyurl.com/cstlctk8s)**
+- **[Cloud Sisters - The Lunch Container Tour](https://github.com/catinahat85/gitgudatcloudnative/blob/main/ebooks/The%20Cloud%20Sisters%20The%20Container%20Lunch%20Tour.pdf)**
 
 
 To get the entire *Ease Into Kubernetes* series, visit [this link](https://www.amazon.com/dp/B0CLKVVZ55?binding=paperback&searchxofy=true&ref_=dbs_s_aps_series_rwt_tpbk&qid=1725651115&sr=8-1) on Amazon.
