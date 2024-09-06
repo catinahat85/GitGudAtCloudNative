@@ -4,8 +4,9 @@
 1. [Get Started with Docker](#get-started-with-docker)
 2. [My Aggregated Study Notes, Perfect for KCNA](#my-aggregated-study-notes)
 3. [Introductory Kubernetes Courses](#introductory-kubernetes-courses)
-4. [Kubernetes Hands-On Learning Resources](#kubernetes-hands-on-learning-resources)
-5. [Installing Kubernetes Locally?](#installing-kubernetes-locally)
+4. [K8s Video Theory](#k8s-video-theory)
+5. [Kubernetes Hands-On Learning Resources](#kubernetes-hands-on-learning-resources)
+6. [Installing Kubernetes Locally?](#installing-kubernetes-locally)
 
 
 ---
@@ -32,6 +33,15 @@ Not sure what Kubernetes (K8s) is? Start here with these foundational courses.
 - **[Linux Foundation Introduction to Kubernetes on EdX](https://www.edx.org/learn/kubernetes/the-linux-foundation-introduction-to-kubernetes)**: The same official course, hosted on EdX.
 
 - **[Civo Academy](https://www.civo.com/academy)**: Free Kubernetes and cloud-native technology courses covering the essentials of cloud-native development, containers, and Kubernetes.
+
+---
+
+## K8s Video Theory 
+A couple of reccomended videos that explain Kubernetes concepts, uses cases etc.
+
+- **[Learn Kubernetes - KodeKloud](https://youtu.be/X48VuDVv0do?si=KJVDeOOHSUJxkQpF)**: A comprehensive beginner-friendly introduction to Kubernetes by KodeKloud, covering the core concepts and practical demonstrations.
+
+- **[Kubernetes Tutorial - Techworld with Nana](https://youtu.be/X48VuDVv0do?si=WtiwUqi1CHDnJum_)**: Another excellent Kubernetes tutorial by Techworld with Nana, offering clear explanations and hands-on examples.
 
 ---
 
