@@ -22,6 +22,7 @@ If you’re new to containerization, these resources will help you get started w
 
 ## My Aggregated Study Notes
 - **[Study Notes](https://docs.google.com/document/d/19lG0L7_CheG7Gqi-TWkH_cCyuAzNlYNLbrdru0WdH-4/pub)**: Taken from a variety of sources, including the official docs, they have been beneficial when I have been stuck. If you're considering going for your KCNA, these are great to read over.
+- **[Lofi Study Cram](https://www.youtube.com/watch?v=ipDBBMcSJDM&ab_channel=CloudFiBeats)**: A relaxed, narrated version of the study notes created with AWS Polly, set over my own Lofi beats meant for you to listen to while exercising, driving or working. it works for me, so I figured I'd share.
 
 ---
 
