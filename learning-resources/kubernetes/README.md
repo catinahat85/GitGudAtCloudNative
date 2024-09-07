@@ -2,10 +2,10 @@
 My philosophy is this: Container orchestration is here to stay. It is becoming ubiquitous at a rapid pace, and the rise of AI will only accelerate this. Getting to know "the cloud" is only the beginning, so even having a basic familiarity with Cloud Native technologies is a must if you're looking to kick-start your career as a "Cloud Engineer" (which is basically an umbrella term more than a role nowadays).
 
 ## So What Is "Cloud Native"?
-In short, it is technology meant to take advantage of cloud computing environments, their scaling capabilities, compute power, and their decentralized nature. According to the **[CNCF or, Cloud Native Computing Foundation](https://www.cncf.io)**, the leading organization in steering the way for Cloud Native technologies, Cloud Native is:
-"Cloud native practices empower organizations to develop, build, and deploy workloads in computing environments (public, private, hybrid cloud) to meet their organizational needs at scale in a programmatic and repeatable manner. It is characterized by loosely coupled systems that interoperate in a secure, resilient, manageable, sustainable, and observable manner.
+In short, it is technology meant to take advantage of cloud computing environments, their scaling capabilities, compute power, and their decentralized nature. 
 
-Cloud Native technologies and architectures typically consist of some combination of containers, service meshes, multi-tenancy, microservices, immutable infrastructure, serverless, and declarative APIs"
+According to the **[CNCF or, Cloud Native Computing Foundation](https://www.cncf.io)**, the leading organization in steering the way for Cloud Native technologies, Cloud Native is defined as:
+"Cloud native practices empower organizations to develop, build, and deploy workloads in computing environments (public, private, hybrid cloud) to meet their organizational needs at scale in a programmatic and repeatable manner. It is characterized by loosely coupled systems that interoperate in a secure, resilient, manageable, sustainable, and observable manner. Cloud Native technologies and architectures typically consist of some combination of containers, service meshes, multi-tenancy, microservices, immutable infrastructure, serverless, and declarative APIs"
 
 So, think of the following:
 - Container Orchestration (Kubernetes, Google Borg, Docker Borg, Docker Swarm, Openshift)
@@ -16,6 +16,8 @@ So, think of the following:
 - Serverless Computing
 - API Gateways
 - Observation and Monitoring Tools
+
+Feel intimidated yet? Don't be. Baby steps. I was learning once, and still am, and this is intended to share my journey, past and ongoing. So you're not alone.
 
 
 ## Index
