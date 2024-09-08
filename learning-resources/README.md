@@ -8,6 +8,13 @@ Here are some resources for learning the basics of cloud computing, where to sta
 
 ## Cloud Native Technologies
 What the &^$% is Cloud Native you say? Well, I got you. 
+I'm here to let you know that you need to learn:
+- Docker
+- Kubernetes
+- Service Meshes
+- CI/CD
+
+Most workloads in the cloud are integrating one or all of these, so there's no escaping them.
 I've compiled some resources for learning Cloud Native technologies, why they're important, and where to start. Normally, you'd start here once you have a firm grasp of Cloud computing and need to understand how companies scale their apps, decentralize their solutions, and implement observability.
 
 [Explore Cloud Native Resources](https://github.com/catinahat85/gitgudatcloudnative/tree/main/learning-resources/kubernetes)
