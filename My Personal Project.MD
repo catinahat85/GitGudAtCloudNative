@@ -1,6 +1,6 @@
 # Deploying My Site on Kubernetes with GitHub Actions and Flux
 
-So, I wanted a place to tie together everything. My music study crams, my deployments, the books, and this educational resource repo. So I made [the repo](https://github.com/catinahat85/CloudFiLive) for my main site, [Beatsinthe.cloud](http://Beatsinthe.cloud) public for you to observe or even fork. This repository contains the source code and configuration for my website, deployed on a Kubernetes cluster hosted on DigitalOcean. The deployment is automated using **GitHub Actions** and **Flux** to ensure that changes pushed to the repository are reflected in the live environment without manual intervention.
+So, I wanted a place to tie together everything. My music study crams, my deployments, the books, and this educational resource repo. So I made **[the repo](https://github.com/catinahat85/CloudFiLive)** for my main site, **[Beatsinthe.cloud](http://Beatsinthe.cloud)** public for you to observe or even fork. This repository contains the source code and configuration for my website, deployed on a Kubernetes cluster hosted on DigitalOcean. The deployment is automated using **GitHub Actions** and **Flux** to ensure that changes pushed to the repository are reflected in the live environment without manual intervention.
 
 ## Overview
 
