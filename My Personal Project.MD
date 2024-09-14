@@ -130,4 +130,4 @@ However, the point of this was to prove my abilities, and prove that I know what
 
 - And yeah, the blog section is on managed Wordpress. Sue me. I don't want to manage a WordPress site bro. I'd rather learn OpenStack. I'm not a web developer.
 
-**Next up, I'll be working on monitoring and observability. 
+**Next up, I'll be working on monitoring and observability.**
