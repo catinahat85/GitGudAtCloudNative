@@ -128,4 +128,6 @@ In 2022 I was finally using nginx and apache to manage my own servers on a VM wi
 In 2023 I was reducing the resource usage by deploying those servers with Docker
 In 2024 I am fully multicloud, and now overdoing it by using Kubernetes, with high availability and automated CI/CD. All of this for under $24 a month. 
 
+And yeah, the blog section is on managed Wordpress. Sue me. I don't want to manage a WordPress site bro. I'd rather learn OpenStack. I'm not a web developer.
+
 Next up, I'll be working on monitoring and observability. 
