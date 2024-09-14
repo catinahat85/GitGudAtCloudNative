@@ -122,12 +122,12 @@ Here are a few reasons why the setup I implemented could be considered over-engi
 
 However, the point of this was to prove my abilities, and prove that I know what I am talking about and show my work, per se.
 
-In 2020, I was making sites on Blogger and wordpress still. 
-In 2021 I was using AWS S3 to make an object public and use the external IP as the site.
-In 2022 I was finally using nginx and apache to manage my own servers on a VM with multiple sites.
-In 2023 I was reducing the resource usage by deploying those servers with Docker
-In 2024 I am fully multicloud, and now overdoing it by using Kubernetes, with high availability and automated CI/CD. All of this for under $24 a month. 
+- In 2020, I was making sites on Blogger and wordpress still. 
+- In 2021 I was using AWS S3 to make an object public and use the external IP as the site.
+- In 2022 I was finally using nginx and apache to manage my own servers on a VM with multiple sites.
+- In 2023 I was reducing the resource usage by deploying those servers with Docker
+- In 2024 I am fully multicloud, and now overdoing it by using Kubernetes, with high availability and automated CI/CD. All of this for under $24 a month. 
 
-And yeah, the blog section is on managed Wordpress. Sue me. I don't want to manage a WordPress site bro. I'd rather learn OpenStack. I'm not a web developer.
+- And yeah, the blog section is on managed Wordpress. Sue me. I don't want to manage a WordPress site bro. I'd rather learn OpenStack. I'm not a web developer.
 
-Next up, I'll be working on monitoring and observability. 
+**Next up, I'll be working on monitoring and observability. 
