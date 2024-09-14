@@ -1,0 +1,131 @@
+# Deploying My Site on Kubernetes with GitHub Actions and Flux
+
+So, I wanted a place to tie together everything. My music study crams, my deployments, the books, and this educational resource repo. So I made [the repo](https://github.com/catinahat85/CloudFiLive) for my main site, [Beatsinthe.cloud](http://Beatsinthe.cloud) public for you to observe or even fork. This repository contains the source code and configuration for my website, deployed on a Kubernetes cluster hosted on DigitalOcean. The deployment is automated using **GitHub Actions** and **Flux** to ensure that changes pushed to the repository are reflected in the live environment without manual intervention.
+
+## Overview
+
+I set up the **CI/CD pipeline** to automatically build and deploy changes to my site. The tools I used in this process are:
+
+- **GitHub Actions**: Used to build the Docker image and push it to DockerHub when changes are committed to the repository.
+- **Flux Image Reflector**: Watches for updated Docker images on DockerHub and automatically updates the Kubernetes deployment to reflect the changes.
+- **Docker**: Containerizes the application for deployment in Kubernetes.
+- **Kubernetes**: Orchestrates the deployment, scaling, and management of the containerized app.
+
+## Project Structure
+
+Here’s an overview of the important files and directories in this repo:
+
+- `.github/workflows/Update docker-image.yml`: The GitHub Actions workflow that automates the Docker image build and push process.
+- `apps/my-nginx-app/deployment.yaml`: Defines the Kubernetes deployment for the app.
+- `service.yaml`: Configures the Kubernetes service to expose the app.
+- `kustomization.yaml`: Manages customization of Kubernetes manifests.
+- `Dockerfile`: Describes how the Docker image is built.
+
+## Workflow Overview
+
+### 1. GitHub Actions for CI
+
+Whenever I commit changes to the repository, GitHub Actions triggers a workflow that:
+
+- **Builds the Docker image** using the `Dockerfile`.
+- **Pushes the updated image** to my DockerHub account.
+
+This automates the image creation process, ensuring that the latest version of the app is always available.
+
+### 2. Flux for Continuous Deployment
+
+Flux continuously monitors my DockerHub repository for changes to the app image. When a new image is detected, Flux:
+
+- **Updates the Kubernetes deployment** with the new image.
+- **Rolls out the changes** by replacing the old pod with the new one, ensuring zero downtime during the update.
+
+### 3. Kubernetes
+
+Kubernetes handles the deployment and scaling of the containerized app. The app’s deployment and service are defined in the `deployment.yaml` and `service.yaml` files. These manifests define how the app runs and how it is exposed to the internet.
+
+## How It Works
+
+Here’s a high-level look at how the automation works:
+
+1. Push updates to the repository (e.g., modifying `index.html` or `Dockerfile`).
+2. GitHub Actions builds and pushes the new Docker image to DockerHub.
+3. Flux detects the new image on DockerHub and updates the Kubernetes deployment.
+4. Kubernetes rolls out the updated app without any downtime.
+
+## Tools Used
+
+- **GitHub Actions**: For automating the CI process (Docker image build and push).
+- **Flux**: For automating the CD process (monitoring and updating Kubernetes deployments).
+- **Docker**: For containerizing the app.
+
+- **Kubernetes**: For orchestrating the containerized application in a cloud environment.
+- **DigitalOcean**: As the cloud provider for hosting the Kubernetes cluster.
+  
+## Why This Setup?
+
+This setup provides a fully automated CI/CD pipeline for deploying cloud-native applications. Using GitHub Actions for CI and Flux for CD ensures that I can focus on development, while the deployment process is handled seamlessly.
+
+---
+
+Also, some musings and some key points to know:
+
+# Key things to Know About DockerHub
+If you're planniong on using for Production, maybe consider it twice.
+
+Free tier users are subject to pull rate limits:
+- **Anonymous users**: Up to **100 pulls per 6 hours**.
+- **Authenticated users**: Up to **200 pulls per 6 hours**.
+This can affect production environments relying on DockerHub for frequent image pulls, especially in larger deployments.
+
+DockerHub automatically deletes **inactive images** that haven’t been pulled or updated in **6 months** if you're on the free tier. You must stay active to avoid losing images, which can be problematic if you're relying on old images for future deployments.
+
+Public images can be accessed by anyone, which might expose your environment to potential vulnerabilities if not properly maintained. 
+- Some public images may contain **security risks**, **outdated dependencies**, or even **malware**.
+- **Best practice**: Always scan public images before use and consider using Docker's image scanning feature for vulnerability detection.
+
+DockerHub API usage is also rate-limited, which can disrupt automated workflows in CI/CD pipelines. 
+- **Best practice**: Cache images locally or use a DockerHub mirror to reduce API requests and prevent hitting rate limits.
+
+Free accounts are limited to **1 private repository**. If your project requires more, you’ll need to upgrade to a paid plan.
+- Alternatives include image registries like **GitHub Packages** or **self-hosted registries** for private image hosting.
+
+DockerHub is a centralized service, meaning **downtime** or **service interruptions** can affect your deployments. 
+- **Best practice**: Mirror images locally or set up a private registry for mission-critical applications to avoid downtime caused by DockerHub outages.
+  - For example, I’ve implemented **Harbor** on my Kubernetes cluster for this purpose.
+
+
+
+# Why My Setup Might Be Overkill
+Here are a few reasons why the setup I implemented could be considered over-engineered for this project:
+
+## Single Node Deployment
+- Running a **Kubernetes cluster** for a single-node website might be overkill. A simpler solution, such as using Docker directly on a virtual machine (VM), could achieve the same result with less complexity.
+- Kubernetes is best suited for complex, multi-node environments, which isn't necessary for a basic or small-scale site.
+
+## Automated CI/CD for Small Projects
+- While using **GitHub Actions** and **Flux** for CI/CD is powerful, manually deploying the app or using a simpler CI tool could have been more efficient for a personal or small project.
+- The level of automation might not be fully needed if updates and deployments happen infrequently.
+
+## Flux for Image Reconciliation
+- **Flux** automatically monitors DockerHub and updates the Kubernetes deployment with new images, but for a small site that rarely changes, manually updating the deployment would have been simpler and less resource-intensive.
+
+## Horizontal Auto-scaling
+- Enabling **auto-scaling** in Kubernetes is useful for high-traffic applications, but for a single-node personal website, it adds complexity without much benefit. Static resources or manually scaled environments could be easier to manage.
+
+## Private Registry Setup (Harbor)
+- Setting up a **self-hosted private Docker registry** like **Harbor** is typically done for enterprise-level security and control. For a personal project, using **DockerHub** or another public registry would likely be simpler and require less maintenance.
+
+## High Availability Features
+- Kubernetes provides features like **rolling updates** and **zero-downtime deployments**, which are overkill for a personal or small project. If the site doesn’t need high availability or frequent updates, a simpler deployment strategy could suffice.
+
+---
+
+However, the point of this was to prove my abilities, and prove that I know what I am talking about and show my work, per se.
+
+In 2020, I was making sites on Blogger and wordpress still. 
+In 2021 I was using AWS S3 to make an object public and use the external IP as the site.
+In 2022 I was finally using nginx and apache to manage my own servers on a VM with multiple sites.
+In 2023 I was reducing the resource usage by deploying those servers with Docker
+In 2024 I am fully multicloud, and now overdoing it by using Kubernetes, with high availability and automated CI/CD. All of this for under $24 a month. 
+
+Next up, I'll be working on monitoring and observability. 
