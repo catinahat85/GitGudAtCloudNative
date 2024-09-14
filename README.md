@@ -26,8 +26,14 @@ Welcome to the repository! Here, you'll find a collection of resources designed 
 - Low-cost/free resources for learning cloud computing, cloud-native, Linux, IaC etc. 
 - [Learning Resources](./learning-resources/README.md)
 
+## My Personal Project - CloudFi
+- See how I implemented **Kubernetes** to deploy the main site with high availability, fault tolerance, automated CI/CD, and backups. This setup allows me to focus solely on code and the fun, creative stuff.
+- Feel free to explore my **Deployments** and fork the repo if you need it for your own projects.
+- [CloudFiLive Project Walkthrough](https://github.com/catinahat85/GitGudAtCloudNative/blob/a436fbed308529cb253e265b5a6ec2c7d6c368c8/My%20Personal%20Project.MD)
+
+
 ## FOR FREE?
-- Earn Professional Credentials for free or for a low cost. Kick start your resume.
+- Earn Professional Credentials for free or at a low cost. Kickstart your resume.
 - [Learning Pathways](./freecertifications/README.md)
 
 ## Spanish Version
