@@ -18,4 +18,4 @@ For the aboslute best result, your first prompt should be to tell **When 2 K8s y
 The instance has been configured to NOT RETAIN any information, nor do I have access to your chats. However, I strongly suggest you DO NOT SHARE ANY SENSITIVE INFORMATION WITH IT. This is strictly for initial expoloratory purposes only.
 
 
-- **## Try the GPT instance here: [Kubernetes Evaluation GPT](https://chatgpt.com/g/g-rf6wyH9MH-when-2-k8s)**
+- **## **Try the GPT instance here: [Kubernetes Evaluation GPT](https://chatgpt.com/g/g-rf6wyH9MH-when-2-k8s)**
