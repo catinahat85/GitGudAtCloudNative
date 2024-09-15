@@ -77,7 +77,7 @@ Free tier users are subject to pull rate limits:
 - **Authenticated users**: Up to **200 pulls per 6 hours**.
 This can affect production environments relying on DockerHub for frequent image pulls, especially in larger deployments.
 
-DockerHub automatically deletes **inactive images** that haven’t been pulled or updated in **6 months** if you're on the free tier. You must stay active to avoid losing images, which can be problematic if you're relying on old images for future deployments.
+DockerHub automatically deletes **inactive images** that haven’t been pulled or updated in **6 months** if you're on the free tier. You must stay active to avoid losing images, which can be problematic if you're using old images for future deployments.
 
 Public images can be accessed by anyone, which might expose your environment to potential vulnerabilities if not properly maintained. 
 - Some public images may contain **security risks**, **outdated dependencies**, or even **malware**.
