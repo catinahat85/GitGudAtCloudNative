@@ -16,7 +16,7 @@ I set up the **CI/CD pipeline** to automatically build and deploy changes to my 
 Here’s an overview of the important files and directories in this repo:
 
 - `.github/workflows/Update docker-image.yml`: The GitHub Actions workflow that automates the Docker image build and push process.
-- `apps/my-nginx-app/deployment.yaml`: Defines the Kubernetes deployment for the app.
+- `./deployment.yaml`: Defines the Kubernetes deployment for the app.
 - `service.yaml`: Configures the Kubernetes service to expose the app.
 - `kustomization.yaml`: Manages customization of Kubernetes manifests.
 - `Dockerfile`: Describes how the Docker image is built.
@@ -27,10 +27,10 @@ Here’s an overview of the important files and directories in this repo:
 
 Whenever I commit changes to the repository, GitHub Actions triggers a workflow that:
 
-- **Builds the Docker image** using the `Dockerfile`.
+- **Builds the Docker image** using the `Dockerfile`. Courtesy of Github Actions.
 - **Pushes the updated image** to my DockerHub account.
 
-This automates the image creation process, ensuring that the latest version of the app is always available.
+This automates the image creation process, ensuring that the latest version of the site is always available.
 
 ### 2. Flux for Continuous Deployment
 
@@ -50,13 +50,13 @@ Here’s a high-level look at how the automation works:
 1. Push updates to the repository (e.g., modifying `index.html` or `Dockerfile`).
 2. GitHub Actions builds and pushes the new Docker image to DockerHub.
 3. Flux detects the new image on DockerHub and updates the Kubernetes deployment.
-4. Kubernetes rolls out the updated app without any downtime.
+4. Kubernetes rolls out the updated deploymet without any downtime.
 
 ## Tools Used
 
 - **GitHub Actions**: For automating the CI process (Docker image build and push).
 - **Flux**: For automating the CD process (monitoring and updating Kubernetes deployments).
-- **Docker**: For containerizing the app.
+- **Docker**: For containerizing the nginx app.
 
 - **Kubernetes**: For orchestrating the containerized application in a cloud environment.
 - **DigitalOcean**: As the cloud provider for hosting the Kubernetes cluster.
