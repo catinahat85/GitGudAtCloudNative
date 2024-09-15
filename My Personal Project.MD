@@ -118,29 +118,23 @@ Here are a few reasons why the setup I implemented could be considered over-engi
 - Kubernetes provides features like **rolling updates** and **zero-downtime deployments**, which are overkill for a personal or small project. If the site doesn’t need high availability or frequent updates, a simpler deployment strategy could suffice.
 
 
-# If you're looking to not spend much instead to use Kubernetes
-If you're looking for cost-effective ways to run Kubernetes or containerized environments, consider these options, or if setting up a home lab is out of the question:
+# If you're looking to not spend much instead use Kubernetes
+If you're looking for cost-effective (See: CHEAP) ways to run Kubernetes, consider these options, or if setting up a home lab is out of the question:
 
 1. **DigitalOcean/Linode/Vultr/Civo**  
-   Low-cost managed Kubernetes services available on VPS providers. I get zero revenue from them. They're just cheap. There. I said it.
+   They have low-cost managed Kubernetes services available on VPS providers. I get zero revenue from them. They're just cheap. There. I said it. But they charge for load balancers. And you kind of need those.
 
-2. **K3s**  
-   A lightweight Kubernetes distribution suitable for cloud VMs or edge devices. Could run on most free tier VMs offered by Oracle Cloud (I highly recommend trying them out), GCP or AWS. 
+2. **K3s, Minikube or MicroK8s**  
+   A lightweight Kubernetes distribution suitable for cloud VMs or edge devices. Could run on most free tier VMs offered by Oracle Cloud (I highly recommend trying them out), GCP or AWS. I like Canonical's work, don't let the snap-haters tell you otherwise, but I have a feeling you'll end up liking Minikube. Sorry K3s, you're the "Community" of light K8s distros, loved by your base, but continually failing to catch on with audiences. 6 Distros and a movie!
 
-3. **MicroK8s**  
-   Compact Kubernetes, ideal for smaller environments and virtual machines. Same situation as K3s. I like Canonical's work, don't let the snap-haters tell you otherwise.
+3. **Self-Hosted on Cloud VMs**  
+   This is how I learned, got permanently suspended from OCI (It's ok, I appealed it and won many months later). Use cloud VMs from AWS, GCP, Azure, OVH, Civo, and Digital Ocean (by my experience OCI does not play well with self-hosted) to self-manage Kubernetes for lower costs. If you want to keep costs low, use the minimal K8s distros (Microk8s, Minoikube, k3s) and not vanilla.
 
-4. **Self-Hosted on Cloud VMs**  
-   Use cloud VMs from AWS, GCP, Azure, OVH, Civo, and Digital Ocean (by my experience OCI does not play well with self-hosted) to self-manage Kubernetes for lower costs.
+4. **Bare Metal Kubernetes**  
+   Rent bare metal servers for affordable, large-scale Kubernetes hosting. Rackspace spot instance often go for $17 A YEAR! - with a big caveat....It will likely get deleted out of nowhere. That's the caveat. Yikes.com
 
-5. **Bare Metal Kubernetes**  
-   Rent bare metal servers for affordable, large-scale Kubernetes hosting. Rackspace spot instance often go for $17 A YEAR! - with a big caveat....
-
-6. **OpenShift OKD**  
-   The community version of OpenShift can be self-hosted on your own infrastructure or VMs.
-
-6. **Docker Desktop**  
-   Docker Desktop has a Kubernetes feature that has Kubectl installed for you to be able to run a small cluster locally.
+5. **Docker Desktop or OpenShift OKD**  
+   Docker Desktop has a Kubernetes feature that has Kubectl installed for you to be able to run a small cluster locally. I've never tried Openshift. But I hear they're just lovely.
 
 
 But if you want to do a project to show off....doing it on the cloud is the way to go.
