@@ -37,11 +37,11 @@ This automates the image creation process, ensuring that the latest version of t
 Flux continuously monitors my DockerHub repository for changes to the app image. When a new image is detected, Flux:
 
 - **Updates the Kubernetes deployment** with the new image.
-- **Rolls out the changes** by replacing the old pod with the new one, ensuring zero downtime during the update.
+- **Rolls out the changes** by replacing the old deployment with the new one, ensuring zero downtime during the update.
 
 ### 3. Kubernetes
 
-Kubernetes handles the deployment and scaling of the containerized app. The app’s deployment and service are defined in the `deployment.yaml` and `service.yaml` files. These manifests define how the app runs and how it is exposed to the internet.
+Kubernetes handles the deployment and scaling of the containerized app. The app’s deployment and service are defined in the `deployment.yaml` and `service.yaml` files. These manifests define how the site runs and how it is exposed to the internet.
 
 ## How It Works
 
@@ -63,7 +63,7 @@ Here’s a high-level look at how the automation works:
   
 ## Why This Setup?
 
-This setup provides a fully automated CI/CD pipeline for deploying my site. Using GitHub Actions for CI and Flux for CD ensures that I can focus on the fun stuff (coding HTML, yay), while the deployment process is handled seamlessly.
+This setup provides a fully automated CI/CD pipeline for deploying my site. Using GitHub Actions for CI and Flux for CD ensures that I can focus on the fun stuff (coding HTML, yay), while the deployment process is handled seamlessly. Also becauseI don't want alot of maintenance and wanted to show off. 
 
 ---
 
