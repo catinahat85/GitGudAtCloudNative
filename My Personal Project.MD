@@ -84,13 +84,13 @@ Public images can be accessed by anyone, which might expose your environment to 
 - I recommend always scanning public images before use and consider using Docker's image scanning feature for vulnerability detection. Has anyone given you the container image birds and the bees talk?
 
 DockerHub API usage is also rate-limited, which can disrupt automated workflows in CI/CD pipelines. 
-- **Best practice**: Cache images locally or use a DockerHub mirror to reduce API requests and prevent hitting rate limits.
+- Cache images locally or use a DockerHub mirror to reduce API requests and prevent hitting rate limits.
 
 Free accounts are limited to **1 private repository**. If your project requires more, you’ll need to upgrade to a paid plan.
 - Alternatives include image registries like **GitHub Packages** or **self-hosted registries** for private image hosting.
 
 DockerHub is a centralized service, meaning **downtime** or **service interruptions** can affect your deployments. 
-- **Best practice**: Mirror images locally or set up a private registry for mission-critical applications to avoid downtime caused by DockerHub outages.
+- Try mirroring images locally or set up a private registry for mission-critical applications to avoid downtime caused by DockerHub outages.
   - For example, I’ve implemented **Harbor** on my Kubernetes cluster for this purpose.
 
 
