@@ -63,11 +63,11 @@ Here’s a high-level look at how the automation works:
   
 ## Why This Setup?
 
-This setup provides a fully automated CI/CD pipeline for deploying cloud-native applications. Using GitHub Actions for CI and Flux for CD ensures that I can focus on development, while the deployment process is handled seamlessly.
+This setup provides a fully automated CI/CD pipeline for deploying my site. Using GitHub Actions for CI and Flux for CD ensures that I can focus on the fun stuff (coding HTML, yay), while the deployment process is handled seamlessly.
 
 ---
 
-Also, some musings and some key points to know:
+Now that you know what and how I did it, some musings and some key points to know:
 
 # Key things to Know About DockerHub
 If you're planniong on using for Production, maybe consider it twice.
