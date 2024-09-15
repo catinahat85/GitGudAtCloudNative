@@ -81,7 +81,7 @@ DockerHub automatically deletes **inactive images** that haven’t been pulled o
 
 Public images can be accessed by anyone, which might expose your environment to potential vulnerabilities if not properly maintained. 
 - Some public images may contain **security risks**, **outdated dependencies**, or even **malware**.
-- **Best practice**: Always scan public images before use and consider using Docker's image scanning feature for vulnerability detection.
+- I recommend always scanning public images before use and consider using Docker's image scanning feature for vulnerability detection. Has anyone given you the container image birds and the bees talk?
 
 DockerHub API usage is also rate-limited, which can disrupt automated workflows in CI/CD pipelines. 
 - **Best practice**: Cache images locally or use a DockerHub mirror to reduce API requests and prevent hitting rate limits.
