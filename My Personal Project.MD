@@ -63,7 +63,7 @@ Here’s a high-level look at how the automation works:
   
 ## Why This Setup?
 
-This setup provides a fully automated CI/CD pipeline for deploying my site. Using GitHub Actions for CI and Flux for CD ensures that I can focus on the fun stuff (coding HTML, yay), while the deployment process is handled seamlessly. Also becauseI don't want alot of maintenance and wanted to show off. 
+This setup provides a fully automated CI/CD pipeline for deploying my site. Using GitHub Actions for CI and Flux for CD ensures that I can focus on the fun stuff (coding HTML, yay), while the deployment process is handled seamlessly. Also becauseI don't want alot of maintenance and wanted to show off. Also because I'm both lazy and a show off.
 
 ---
 
