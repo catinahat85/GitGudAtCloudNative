@@ -94,8 +94,7 @@ DockerHub is a centralized service, meaning **downtime** or **service interrupti
   - For example, I’ve implemented **Harbor** on my Kubernetes cluster for this purpose.
 
 
-
-# Why My Setup Might Be Overkill
+# Why My Setup IS IN FACT Overkill
 Here are a few reasons why the setup I implemented could be considered over-engineered for this project:
 
 ## Single Node Deployment
@@ -118,9 +117,37 @@ Here are a few reasons why the setup I implemented could be considered over-engi
 ## High Availability Features
 - Kubernetes provides features like **rolling updates** and **zero-downtime deployments**, which are overkill for a personal or small project. If the site doesn’t need high availability or frequent updates, a simpler deployment strategy could suffice.
 
+
+# If you're looking to not spend much instead to use Kubernetes
+If you're looking for cost-effective ways to run Kubernetes or containerized environments, consider these options, or if setting up a home lab is out of the question:
+
+1. **DigitalOcean/Linode/Vultr/Civo**  
+   Low-cost managed Kubernetes services available on VPS providers. I get zero revenue from them. They're just cheap. There. I said it.
+
+2. **K3s**  
+   A lightweight Kubernetes distribution suitable for cloud VMs or edge devices. Could run on most free tier VMs offered by Oracle Cloud (I highly recommend trying them out), GCP or AWS. 
+
+3. **MicroK8s**  
+   Compact Kubernetes, ideal for smaller environments and virtual machines. Same situation as K3s. I like Canonical's work, don't let the snap-haters tell you otherwise.
+
+4. **Self-Hosted on Cloud VMs**  
+   Use cloud VMs from AWS, GCP, Azure, OVH, Civo, and Digital Ocean (by my experience OCI does not play well with self-hosted) to self-manage Kubernetes for lower costs.
+
+5. **Bare Metal Kubernetes**  
+   Rent bare metal servers for affordable, large-scale Kubernetes hosting. Rackspace spot instance often go for $17 A YEAR! - with a big caveat....
+
+6. **OpenShift OKD**  
+   The community version of OpenShift can be self-hosted on your own infrastructure or VMs.
+
+6. **Docker Desktop**  
+   Docker Desktop has a Kubernetes feature that has Kubectl installed for you to be able to run a small cluster locally.
+
+
+But if you want to do a project to show off....doing it on the cloud is the way to go.
+
 ---
 
-However, the point of this was to prove my abilities, and prove that I know what I am talking about and show my work, per se.
+As I said before, the point of this was to prove my abilities, prove that I know what I am talking about and show my work, per se.
 
 - In 2020, I was making sites on Blogger and wordpress still. 
 - In 2021 I was using AWS S3 to make an object public and use the external IP as the site.
