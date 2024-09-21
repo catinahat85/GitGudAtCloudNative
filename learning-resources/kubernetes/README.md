@@ -79,6 +79,7 @@ Here you will find resources to help you practice Kubernetes with real-world, ha
 
 - **[IBM Kubernetes Service Tutorials](https://www.ibm.com/products/kubernetes-service/kubernetes-tutorials)**: IBM’s collection of Kubernetes tutorials to help you get started with managing applications in Kubernetes clusters using the IBM Kubernetes Service.
 
+- **[Get Started with Kubernetes](https://collabnix.github.io/kubelabs/)**: An amazing list of Kubernetes Labs and Tutorials
 ---
 
 ## Installing Kubernetes Locally
