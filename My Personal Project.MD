@@ -33,9 +33,9 @@ Whenever I commit changes to the repository, GitHub Actions triggers a workflow 
 
 This automates the image creation process, ensuring that the latest version of the site is always available.
 
-### 2. Flux for Continuous Deployment
+### 2. ~Flux~ Argo CD for Continuous Deployment
 
-Flux continuously monitors my DockerHub repository for changes to the app image. When a new image is detected, Flux:
+~Flux~ Argo CD continuously monitors my DockerHub repository for changes to the app image. When a new image is detected, Flux:
 
 - **Updates the Kubernetes deployment** with the new image.
 - **Rolls out the changes** by replacing the old deployment with the new one, ensuring zero downtime during the update.
@@ -50,13 +50,13 @@ Here’s a high-level look at how the automation works:
 
 1. Push updates to the repository (e.g., modifying `index.html` or `Dockerfile`).
 2. GitHub Actions builds and pushes the new Docker image to DockerHub.
-3. Flux detects the new image on DockerHub and updates the Kubernetes deployment.
+3. Argo detects the new image on DockerHub and updates the Kubernetes deployment.
 4. Kubernetes rolls out the updated deploymet without any downtime.
 
 ## Tools Used
 
 - **GitHub Actions**: For automating the CI process (Docker image build and push).
-- **Flux**: For automating the CD process (monitoring and updating Kubernetes deployments).
+- **Argo**: For automating the CD process (monitoring and updating Kubernetes deployments).
 - **Docker**: For containerizing the nginx app.
 
 - **Kubernetes**: For orchestrating the containerized application in a cloud environment.
