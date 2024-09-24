@@ -126,7 +126,7 @@ If you're looking for cost-effective (See: CHEAP) ways to run Kubernetes, consid
    They have low-cost managed Kubernetes services available on VPS providers. I get zero revenue from them. They're just cheap. There. I said it. But they charge for load balancers. And you kind of need those.
 
 2. **K3s, Minikube or MicroK8s**  
-   A lightweight Kubernetes distribution suitable for cloud VMs or edge devices. Could run on most free tier VMs offered by Oracle Cloud (I highly recommend trying them out), GCP or AWS. I like Canonical's work, don't let the snap-haters tell you otherwise, but I have a feeling you'll end up liking Minikube. Sorry K3s, you're the "Community" of light K8s distros, loved by your base, but continually failing to catch on with audiences. 6 Distros and a movie!
+   A lightweight Kubernetes distribution suitable for cloud VMs or edge devices. Could run on most free tier VMs offered by Oracle Cloud (I highly recommend trying them out), GCP, Azure or AWS. I like Canonical's work, don't let the snap-haters tell you otherwise, but I have a feeling you'll end up liking Minikube. Sorry K3s, you're the "Community" of light K8s distros, loved by your base, but continually failing to catch on with audiences. 6 Distros and a movie!
 
 3. **Self-Hosted on Cloud VMs**  
    This is how I learned, got permanently suspended from OCI (It's ok, I appealed it and won many months later). Use cloud VMs from AWS, GCP, Azure, OVH, Civo, and Digital Ocean (by my experience OCI does not play well with self-hosted) to self-manage Kubernetes for lower costs. If you want to keep costs low, use the minimal K8s distros (Microk8s, Minoikube, k3s) and not vanilla.
