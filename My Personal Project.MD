@@ -7,7 +7,8 @@ So, I wanted a place to tie together everything. My music study crams, my deploy
 I set up the **CI/CD pipeline** to automatically build and deploy changes to my site. The tools I used in this process are:
 
 - **GitHub Actions**: Used to build the Docker image and push it to DockerHub when changes are committed to the repository.
-- **Flux Image Reflector**: Watches for updated Docker images on DockerHub and automatically updates the Kubernetes deployment to reflect the changes.
+- ~**Flux Image Reflector**: Watches for updated Docker images on DockerHub and automatically updates the Kubernetes deployment to reflect the changes.~
+- **Argo CD Core**: I pivoted to Argo from Flux because it is easier to set up and use, has a cleaner UI, and provides intuitive, real-time monitoring of deployments compared to Flux. It’s more straightforward for lazy people like me who want faster results with less hassle.
 - **Docker**: Containerizes the application for deployment in Kubernetes.
 - **Kubernetes**: Orchestrates the deployment, scaling, and management of the containerized app.
 
