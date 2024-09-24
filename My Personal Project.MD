@@ -103,11 +103,11 @@ Here are a few reasons why the setup I implemented could be considered over-engi
 - Kubernetes is best suited for complex, multi-node environments, which isn't necessary for a basic or small-scale site.
 
 ## Automated CI/CD for Small Projects
-- While using **GitHub Actions** and **Flux** for CI/CD is powerful, manually deploying the app or using a simpler CI tool could have been more efficient for a personal or small project.
+- While using **GitHub Actions** and **Argo** for CI/CD is powerful, manually deploying the app or using a simpler CI tool could have been more efficient for a personal or small project.
 - The level of automation might not be fully needed if updates and deployments happen infrequently.
 
-## Flux for Image Reconciliation
-- **Flux** automatically monitors DockerHub and updates the Kubernetes deployment with new images, but for a small site that rarely changes, manually updating the deployment would have been simpler and less resource-intensive.
+## Argo for Image Reconciliation
+- **Argo** automatically monitors DockerHub and updates the Kubernetes deployment with new images, but for a small site that rarely changes, manually updating the deployment would have been simpler and less resource-intensive.
 
 ## Horizontal Auto-scaling
 - Enabling **auto-scaling** in Kubernetes is useful for high-traffic applications, but for a single-node personal website, it adds complexity without much benefit. Static resources or manually scaled environments could be easier to manage.
@@ -119,7 +119,7 @@ Here are a few reasons why the setup I implemented could be considered over-engi
 - Kubernetes provides features like **rolling updates** and **zero-downtime deployments**, which are overkill for a personal or small project. If the site doesn’t need high availability or frequent updates, a simpler deployment strategy could suffice.
 
 
-# If you're looking to not spend much instead use Kubernetes
+# If you're looking to not spend much on Kubernetes
 If you're looking for cost-effective (See: CHEAP) ways to run Kubernetes, consider these options, or if setting up a home lab is out of the question:
 
 1. **DigitalOcean/Linode/Vultr/Civo**  
