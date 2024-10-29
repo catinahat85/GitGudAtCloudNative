@@ -43,7 +43,7 @@ Si eres nuevo en la contenedorización, estos recursos te ayudarán a comenzar c
 ## Mis Notas de Estudio Agregadas
 - **[Notas de Estudio](https://github.com/catinahat85/GitGudAtCloudNative/blob/main/learning-resources/kubernetes/Gui%CC%81a%20de%20estudio%20sobre%20Kubernetes%20y%20Cloud%20Native.docx)**: Tomadas de una variedad de fuentes, incluidas las documentaciones oficiales, han sido útiles cuando me he quedado atascado. Si estás considerando obtener tu KCNA, son excelentes para leer.
 
-- **[Lofi Study Cram](https://www.youtube.com/watch?v=ipDBBMcSJDM&ab_channel=CloudFiBeats)**: Una versión narrada y relajada de las notas de estudio creadas con AWS Polly, con mis propios beats Lofi para que escuches mientras haces ejercicio, manejas o trabajas. Funciona para mí, así que pensé en compartirlo.
+- **[Lofi Study Cram](https://youtu.be/mEHGQ9PrPYo?si=feLzCKOs04BNcsGD)**: Una versión narrada y relajada de las notas de estudio creadas con AWS Polly, con mis propios beats Lofi para que escuches y leas mientras haces ejercicio, manejas o trabajas. Funciona para mí, así que pensé en compartirlo.
 
 ---
 
