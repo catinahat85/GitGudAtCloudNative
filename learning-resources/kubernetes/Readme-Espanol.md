@@ -9,14 +9,15 @@ Según la **[CNCF o Fundación de Computación Cloud Native](https://www.cncf.io
 "Las prácticas Cloud Native permiten a las organizaciones desarrollar, construir y desplegar cargas de trabajo en entornos de cómputo (nube pública, privada, híbrida) para satisfacer sus necesidades organizacionales a escala de manera programática y repetible. Se caracteriza por sistemas débilmente acoplados que interoperan de manera segura, resiliente, manejable, sostenible y observable. Las tecnologías y arquitecturas Cloud Native suelen consistir en una combinación de contenedores, mallas de servicios, multitenencia, microservicios, infraestructura inmutable, computación sin servidor y APIs declarativas."
 
 Así que piensa en lo siguiente:
-- Orquestación de Contenedores (Kubernetes, Google Borg, Docker Borg, Docker Swarm, Openshift)
-- Contenedores (Docker, etc)
-- Lagos de Datos (Delta Lake)
-- Mallas de Servicios
+- Orquestación de Contenedores (Kubernetes, Google Borg, Tanzu, Docker Swarm, Openshift)
+- Contenedores (Docker, Podman)
+- Lagos de Datos (Delta/Data Lake)
+- Mallas de Servicios (Service Mesh) - Istio, Cilium, Linkerd, Consul
 - Microservicios
 - Computación sin Servidor
+- GitOps Reconciliadores - Flux, Argo
 - Puertas de enlace de API
-- Herramientas de Observación y Monitoreo
+- Herramientas de Observación y Monitoreo (Grafana, Prometheus, K9s)
 
 ¿Te sientes intimidado? No te preocupes. Paso a paso. Yo también estuve aprendiendo y sigo en ello, y esto está pensado para compartir mi viaje, pasado y en curso. Así que no estás solo.
 
@@ -40,7 +41,7 @@ Si eres nuevo en la contenedorización, estos recursos te ayudarán a comenzar c
 ---
 
 ## Mis Notas de Estudio Agregadas
-- **[Notas de Estudio](https://github.com/catinahat85/gitgudatcloudnative/blob/70f4545885a26737713b22d0980f54445fcb4451/learning-resources/Kubernetes%20Cloud%20Native%20Study%20Guide.pdf)**: Tomadas de una variedad de fuentes, incluidas las documentaciones oficiales, han sido útiles cuando me he quedado atascado. Si estás considerando obtener tu KCNA, son excelentes para leer.
+- **[Notas de Estudio](https://github.com/catinahat85/GitGudAtCloudNative/blob/main/learning-resources/kubernetes/Gui%CC%81a%20de%20estudio%20sobre%20Kubernetes%20y%20Cloud%20Native.docx)**: Tomadas de una variedad de fuentes, incluidas las documentaciones oficiales, han sido útiles cuando me he quedado atascado. Si estás considerando obtener tu KCNA, son excelentes para leer.
 
 - **[Lofi Study Cram](https://www.youtube.com/watch?v=ipDBBMcSJDM&ab_channel=CloudFiBeats)**: Una versión narrada y relajada de las notas de estudio creadas con AWS Polly, con mis propios beats Lofi para que escuches mientras haces ejercicio, manejas o trabajas. Funciona para mí, así que pensé en compartirlo.
 
