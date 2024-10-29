@@ -41,7 +41,7 @@ If you’re new to containerization, these resources will help you get started w
 ---
 
 ## My Aggregated Study Notes
-- **[Study Notes]([https://github.com/catinahat85/gitgudatcloudnative/blob/70f4545885a26737713b22d0980f54445fcb4451/learning-resources/Kubernetes%20Cloud%20Native%20Study%20Guide.pdf](https://github.com/catinahat85/GitGudAtCloudNative/blob/main/learning-resources/kubernetes/Gui%CC%81a%20de%20estudio%20sobre%20Kubernetes%20y%20Cloud%20Native.docx))**: Taken from a variety of sources, including the official docs, they have been beneficial when I have been stuck. If you're considering going for your KCNA, these are great to read over.
+- **[Study Notes](https://github.com/catinahat85/GitGudAtCloudNative/blob/main/learning-resources/kubernetes/Kubernetes%20Cloud%20Native%20Study%20Guide.pdf)**: Taken from a variety of sources, including the official docs, they have been beneficial when I have been stuck. If you're considering going for your KCNA, these are great to read over.
 - **[Lofi Study Cram](https://www.youtube.com/watch?v=ipDBBMcSJDM&ab_channel=CloudFiBeats)**: A relaxed, narrated version of the study notes created with AWS Polly, set over my own Lofi beats meant for you to listen to while exercising, driving or working. it works for me, so I figured I'd share.
 
 ---
