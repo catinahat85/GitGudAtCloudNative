@@ -20,7 +20,7 @@ I've compiled some resources for learning Cloud Native technologies, why they're
 [Explore Cloud Native Resources](https://github.com/catinahat85/gitgudatcloudnative/tree/main/learning-resources/kubernetes)
 
 
-# FFree Credentials You Can Learn and Earn
+# Free Credentials You Can Learn and Earn
 
 ## Oracle Cloud Infrastructure
 - [Foundations Associate](https://education.oracle.com/oracle-cloud-infrastructure-2023-foundations-associate/pexam_1Z0-1085-24)
