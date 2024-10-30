@@ -1,4 +1,4 @@
-(https://as2.ftcdn.net/v2/jpg/02/75/03/59/1000_F_275035961_0Gu3DoUS6b5HjT1Wxg7t0vJky60Rt0gj.jpg)
+![My Image](https://as2.ftcdn.net/v2/jpg/02/75/03/59/1000_F_275035961_0Gu3DoUS6b5HjT1Wxg7t0vJky60Rt0gj.jpg)
 
 # Free Credentials You Can Learn and Earn
 
