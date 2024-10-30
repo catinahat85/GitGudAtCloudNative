@@ -1,3 +1,5 @@
+![My Image](https://dd3q6y43lte2b.cloudfront.net/misc/Screenshot%202024-10-30%20at%2012.40.18%E2%80%AFAM.png)
+
 # GPT Instance for Kubernetes Evaluation
 
 I created a **GPT instance** that casually guides **Small and Medium-sized Enterprises (SMEs)** through evaluating Kubernetes adoption, including various deployment options.
