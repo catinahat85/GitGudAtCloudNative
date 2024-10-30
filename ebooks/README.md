@@ -9,7 +9,9 @@ I call this series *Ease into Kubernetes/K8s*. I hope this could spark their int
   
 - **[Cloud Sisters - The Lunch Container Tour](https://github.com/catinahat85/gitgudatcloudnative/blob/main/ebooks/The%20Cloud%20Sisters%20The%20Container%20Lunch%20Tour.pdf)**
 
-- - **[Phippy and The Cloud Natives: The Container Escape (GitHub Exclusive) - The Lunch Container Tour](https://github.com/catinahat85/GitGudAtCloudNative/blob/main/ebooks/Phippy%20and%20the%20Cloud%20Natives%20The%20Container%20Escape!.docx.pdf)**
+- **[Phippy and The Cloud Natives: The Container Escape (GitHub Exclusive)](https://github.com/catinahat85/GitGudAtCloudNative/blob/main/ebooks/Phippy%20and%20the%20Cloud%20Natives%20The%20Container%20Escape!.docx.pdf)**
+
+- **[Phippy and The Cloud Natives: The Container Escape (En Espanol) (GitHub Exclusive)](https://github.com/catinahat85/GitGudAtCloudNative/blob/main/ebooks/Phippy%20and%20the%20Cloud%20Natives%20La%20Fuga%20Contededores%20Espanol.pdf)**
 
 
 To get the entire *Ease Into Kubernetes* series, visit [this link](https://www.amazon.com/dp/B0CLKVVZ55?binding=paperback&searchxofy=true&ref_=dbs_s_aps_series_rwt_tpbk&qid=1725651115&sr=8-1) on Amazon.
