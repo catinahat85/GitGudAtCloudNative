@@ -1,3 +1,5 @@
+![Introduction to Cloud Computing Achievement](https://learn.microsoft.com/en-us/training/achievements/researcher-introduction-to-cloud-computing.svg)
+
 ## Learning Resources & Tools for those new to the Cloud, Containers & Kubernetes
 
 Welcome to the repository! Here, you'll find a collection of resources designed to help both beginners and small enterprises understand Cloud computing, containers, and working with Kubernetes (k8s). Whether you're looking for beginner-friendly material that explain complex concepts in simple terms (or how to explain to your kids what you do), or tools to evaluate Kubernetes deployment, we've got you covered.
