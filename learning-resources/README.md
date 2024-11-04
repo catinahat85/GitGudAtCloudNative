@@ -1,3 +1,5 @@
+![Cloud Computing Diagram](https://miro.medium.com/v2/resize:fit:1400/format:webp/0*8umCidPiVa_zH54D)
+
 # Learning Resources for Cloud Computing and Cloud Native Technologies
 
 Welcome to the **Learning Resources** section of GitGudAtCloudNative! Whether you’re **training for a new career in tech**, looking to **advance your cloud knowledge**, a **hobbyist** exploring new tech, or someone seeking **certifications** to validate your skills, this repository has resources to get you started and guide you through more advanced topics.
