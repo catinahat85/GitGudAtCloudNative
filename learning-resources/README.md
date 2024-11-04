@@ -51,7 +51,8 @@ Interested in certifications but worried about cost? I’ve included a section o
 - Tips on studying effectively to pass exams without retakes
 
 ➡️ **[Explore Free Certification & Badges Resources](https://github.com/catinahat85/GitGudAtCloudNative/tree/main/freecertifications)**
-➡️ **[Explore ow Cost Certification Resources](https://github.com/catinahat85/GitGudAtCloudNative/tree/main/lowcostcertifications)**
+
+➡️ **[Explore low Cost Certification Resources](https://github.com/catinahat85/GitGudAtCloudNative/tree/main/lowcostcertifications)**
 
 ---
 
