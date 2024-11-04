@@ -12,7 +12,7 @@ Here are some curated YouTube videos to help reinforce your knowledge on cloud c
 ### 2. AWS
 [![Kubernetes](https://img.youtube.com/vi/W4-gE3Li0Yk/0.jpg)](https://www.youtube.com/watch?v=W4-gE3Li0Yk&t=512s)
 
-### 3. GitOps
+### 3. K8s en Espanol
 [![Introduction to DevOps & CI/CD](https://img.youtube.com/vi/mEHGQ9PrPYo/0.jpg)](https://www.youtube.com/watch?v=mEHGQ9PrPYo&t=5579s)
 
 ### 4. Kubernetes for Absolute Beginners
