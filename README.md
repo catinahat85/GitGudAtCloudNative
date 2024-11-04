@@ -33,8 +33,11 @@ Welcome to the repository! Here, you'll find a collection of resources designed 
 
 
 ## FOR FREE?
-- Earn Professional Credentials for free or at a low cost. Kickstart your resume.
-- [Learning Pathways](./freecertifications/README.md)
+- Earn Professional Credentials for free. Kickstart your resume.
+- [Free Certifications](./freecertifications/README.md)
+
+- Prove your skills and earn Professional Credentials a low cost. Further your resume.
+- [Low Cost Certifications](./lowcostcertifications/README.md)
 
 ## Spanish Version
 - This repository is also available in Spanish. Click the link below to access all the resources in Spanish.
