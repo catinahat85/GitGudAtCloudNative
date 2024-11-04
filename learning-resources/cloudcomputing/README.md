@@ -6,13 +6,13 @@ Welcome to the **Learning resources** page for cloud certification exams and rel
 
 Here are some curated YouTube videos to help reinforce your knowledge on cloud computing, cloud-native technologies, and DevOps principles. These videos cover essential topics and are a great resource for anyone studying for certifications.
 
-### 1. Cloud Computing Basics - Full Course (AWS, Azure, GCP)
+### 1. Azure
 [![Azure](https://img.youtube.com/vi/ZmQKeiBLANM/0.jpg)](https://www.youtube.com/watch?v=ZmQKeiBLANM&t=688s)
   
-### 2. Docker & Kubernetes Crash Course
+### 2. AWS
 [![Kubernetes](https://img.youtube.com/vi/W4-gE3Li0Yk/0.jpg)](https://www.youtube.com/watch?v=W4-gE3Li0Yk&t=512s)
 
-### 3. Introduction to DevOps & CI/CD
+### 3. GitOps
 [![Introduction to DevOps & CI/CD](https://img.youtube.com/vi/mEHGQ9PrPYo/0.jpg)](https://www.youtube.com/watch?v=mEHGQ9PrPYo&t=5579s)
 
 ### 4. Kubernetes for Absolute Beginners
