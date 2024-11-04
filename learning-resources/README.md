@@ -13,7 +13,7 @@ Welcome to the **Learning Resources** section of GitGudAtCloudNative! Whether yo
 
 Plus, I’ll share my personal opinions on the best way to start and why I recommend certain approaches over others. **Feel free to contribute** if you have resources or insights to add!
 
-➡️ **[Explore Cloud Computing Resources](#)**
+➡️ **[Explore Cloud Computing Resources](https://github.com/catinahat85/GitGudAtCloudNative/tree/main/learning-resources/cloudcomputing)**
 
 ---
 
@@ -38,7 +38,7 @@ Most cloud-based workloads integrate one or more of these tools, making knowledg
 
 Once you have a solid grasp of **Cloud Computing**, jump into Cloud Native to understand the **next level of cloud operations**. I’ve compiled resources on each of these technologies, why they’re important, and the best starting points.
 
-➡️ **[Explore Cloud Native Resources](#)**
+➡️ **[Explore Cloud Native Resources](https://github.com/catinahat85/GitGudAtCloudNative/tree/main/learning-resources/kubernetes)**
 
 ---
 
@@ -50,7 +50,8 @@ Interested in certifications but worried about cost? I’ve included a section o
 - Affordable alternatives and practice exams
 - Tips on studying effectively to pass exams without retakes
 
-➡️ **[Explore Free and Low-Cost Certification Resources](#)**
+➡️ **[Explore Free Certification & Badges Resources](https://github.com/catinahat85/GitGudAtCloudNative/tree/main/freecertifications)**
+➡️ **[Explore ow Cost Certification Resources](https://github.com/catinahat85/GitGudAtCloudNative/tree/main/lowcostcertifications)**
 
 ---
 
@@ -58,10 +59,9 @@ Interested in certifications but worried about cost? I’ve included a section o
 
 I’ve included some of my personal projects here to give you examples of how I’m applying these technologies in real-world scenarios. Feel free to explore, learn from, or even fork and contribute to these projects:
 
-- **When-2-K8s Evaluation GPT**: A guide to help determine when Kubernetes is the right choice for deploying an application.
 - **[Other Project Names or Details]**
 
-➡️ **[Explore My Personal Projects](#)**
+➡️ **[Beatsinthe.cloud Project](https://github.com/catinahat85/GitGudAtCloudNative/blob/main/My%20Personal%20Project.MD)**
 
 ---
 
