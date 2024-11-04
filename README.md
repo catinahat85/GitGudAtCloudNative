@@ -3,7 +3,7 @@
 Welcome to the repository! Here, you'll find a collection of resources designed to help both beginners and small enterprises understand Cloud computing, containers, and working with Kubernetes (k8s). Whether you're looking for beginner-friendly material that explain complex concepts in simple terms (or how to explain to your kids what you do), or tools to evaluate Kubernetes deployment, we've got you covered.
 
 ## Contents
-- [E-books for Kids and Beginners](#e-books-for-kids-and-beginners)
+
 - [When 2 Kubernetes GPT Assessment Tool](#When-2-K8s-Evaluation-GPT)
 - [Learning Pathways and Certification Costs](#learning-pathways)
 - [Learning Resources](#learning-resources)
