@@ -1,8 +1,8 @@
-# Study Notes for Cloud Certification Exams
+# Cloud Computing Certification Exams Learning Resources
 
-Welcome to the **Study Notes** page for cloud certification exams and related technologies! Here you'll find resources, notes, and recommended study material to help you prepare for various **cloud certifications**. Whether you’re studying for AWS, Azure, Google Cloud, Kubernetes, or DevOps certifications, this page is packed with insights and links to helpful content.
+Welcome to the **Learning resources** page for cloud certification exams and related technologies! Here you'll find resources, notes, and recommended study material to help you prepare for various **cloud certifications**. Whether you’re studying for AWS, Azure, Google Cloud, Kubernetes, or DevOps certifications, this page is packed with insights and links to helpful content.
 
-## Certification Study Videos
+## Certification Study Cram Videos
 
 Here are some curated YouTube videos to help reinforce your knowledge on cloud computing, cloud-native technologies, and DevOps principles. These videos cover essential topics and are a great resource for anyone studying for certifications.
 
