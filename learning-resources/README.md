@@ -60,8 +60,6 @@ Interested in certifications but worried about cost? I’ve included a section o
 
 I’ve included some of my personal projects here to give you examples of how I’m applying these technologies in real-world scenarios. Feel free to explore, learn from, or even fork and contribute to these projects:
 
-- **[Other Project Names or Details]**
-
 ➡️ **[Beatsinthe.cloud Project](https://github.com/catinahat85/GitGudAtCloudNative/blob/main/My%20Personal%20Project.MD)**
 
 ---
