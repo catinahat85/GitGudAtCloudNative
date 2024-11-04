@@ -18,10 +18,10 @@ Here are some curated YouTube videos to help reinforce your knowledge on cloud c
 ### 4. Kubernetes for Absolute Beginners
 [![Kubernetes for Absolute Beginners](https://img.youtube.com/vi/ipDBBMcSJDM/0.jpg)](https://www.youtube.com/watch?v=ipDBBMcSJDM&t=2976s)
 
-### 5. Cloud Security Fundamentals
+### 5. GitOps
 [![Cloud Security Fundamentals](https://img.youtube.com/vi/Ui6nlY-MBjo/0.jpg)](https://www.youtube.com/watch?v=Ui6nlY-MBjo&t=1097s)
 
-### 6. Advanced Kubernetes Techniques
+### 6. Security
 [![Advanced Kubernetes Techniques](https://img.youtube.com/vi/6Zl0BvW0jfE/0.jpg)](https://www.youtube.com/watch?v=6Zl0BvW0jfE&t=3366s)
 
 ### More Content
