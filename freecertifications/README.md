@@ -6,6 +6,14 @@
 - [Foundations Associate](https://education.oracle.com/oracle-cloud-infrastructure-2023-foundations-associate/pexam_1Z0-1085-24)
 - [AI Foundations Associate](https://education.oracle.com/oracle-cloud-infrastructure-2024-ai-foundations-associate/pexam_1Z0-1122-24)
 - [Container Engine for Kubernetes Specialist](https://blogs.oracle.com/oracleuniversity/post/announcing-the-2024-oci-container-engine-for-kubernetes-specialist-course)
+- [Oracle Cloud Infrastructure Data Foundations Associate](https://mylearn.oracle.com/ou/learning-path/become-an-oracle-cloud-infrastructure-data-foundations-associate-2024/140339) <== NEW
+
+## Salesforce
+- [Salesforce AI Associate](https://trailhead.salesforce.com/en/credentials/aiassociate) <== NEW
+- [Salesforce AI Specialist](https://trailhead.salesforce.com/en/credentials/aispecialist) <== NEW
+
+## Slack
+- [Various Certified Slack Digital Skills](https://www.slackcertified.com/page/slack-skills) <== NEW
 
 ## Harness
 - [Harness Continuous Delivery Developer](https://university-registration.harness.io/certified-continuous-delivery-developer)
@@ -27,6 +35,9 @@
 - [Skills Boost Generative AI Fundamentals](https://www.cloudskillsboost.google/paths/118)
 - [Manage K8s in Google Cloud (w/ 1 Month Trial)](https://www.cloudskillsboost.google/course_templates/783)
 - [Various Skill Badges with One Month Trial](https://www.cloudskillsboost.google/)
+
+## Google Skillshop
+- [Google Ads/Analytics/Marketing Certifications](https://skillshop.docebosaas.com/learn/signin) <== NEW
 
 ## Buoyant
 - [Service Mesh 101](https://buoyant.io/courses/service-mesh-101)
