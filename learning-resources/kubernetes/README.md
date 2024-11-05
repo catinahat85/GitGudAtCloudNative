@@ -1,98 +1,95 @@
-# Kubernetes Learning Resources
-My philosophy is this: Container orchestration is here to stay. It is becoming ubiquitous at a rapid pace, and the rise of AI will only accelerate this. Getting to know "the cloud" is only the beginning, so even having a basic familiarity with Cloud Native technologies is a must if you're looking to kick-start your career as a "Cloud Engineer" (which is basically an umbrella term more than a role nowadays).
+# Recursos de Aprendizaje para Kubernetes
 
-## So What Is "Cloud Native"?
-In short, it is technology meant to take advantage of cloud computing environments, their scaling capabilities, compute power, and their decentralized nature. 
+Mi filosofía es esta: La orquestación de contenedores llegó para quedarse. Se está volviendo ubicua a un ritmo acelerado, y el auge de la IA solo acelerará esto. Conocer "la nube" es solo el comienzo, así que incluso tener un conocimiento básico de tecnologías Cloud Native es imprescindible si deseas iniciar tu carrera como "Ingeniero de la Nube" (que, hoy en día, es más un término amplio que un rol específico).
 
-According to the **[CNCF or, Cloud Native Computing Foundation](https://www.cncf.io)**, the leading organization in steering the way for Cloud Native technologies, Cloud Native is defined as:
-"Cloud native practices empower organizations to develop, build, and deploy workloads in computing environments (public, private, hybrid cloud) to meet their organizational needs at scale in a programmatic and repeatable manner. It is characterized by loosely coupled systems that interoperate in a secure, resilient, manageable, sustainable, and observable manner. Cloud Native technologies and architectures typically consist of some combination of containers, service meshes, multi-tenancy, microservices, immutable infrastructure, serverless, and declarative APIs"
+## ¿Entonces, Qué es "Cloud Native"?
+En resumen, es tecnología diseñada para aprovechar los entornos de computación en la nube, sus capacidades de escalabilidad, potencia de cálculo y su naturaleza descentralizada.
 
-So, think of the following:
-- Container Orchestration (Kubernetes, Google Borg, Docker Borg, Docker Swarm, Openshift)
-- Containers (Docker, etc)
-- Data Lakes (Delta Lake)
-- Service Meshes
-- Microservices
-- Serverless Computing
-- API Gateways
-- Observation and Monitoring Tools
+Según la **[CNCF o Fundación de Computación Nativa de la Nube](https://www.cncf.io)**, la organización líder en el desarrollo de tecnologías Cloud Native, Cloud Native se define como:
+"Las prácticas Cloud Native permiten a las organizaciones desarrollar, construir y desplegar cargas de trabajo en entornos de computación (nube pública, privada, híbrida) para satisfacer sus necesidades organizacionales a escala de una manera programática y repetible. Se caracteriza por sistemas desacoplados que interactúan de manera segura, resiliente, manejable, sostenible y observable. Las tecnologías y arquitecturas Cloud Native suelen consistir en una combinación de contenedores, mallas de servicio, multi-tenencia, microservicios, infraestructura inmutable, computación sin servidor y APIs declarativas."
 
-Feel intimidated yet? Don't be. Baby steps. I was learning once, and still am, and this is intended to share my journey, past and ongoing. So you're not alone.
+Piensa en lo siguiente:
+- Orquestación de contenedores (Kubernetes, Google Borg, Docker Borg, Docker Swarm, Openshift)
+- Contenedores (Docker, etc.)
+- Lagos de Datos (Delta Lake)
+- Mallas de Servicios
+- Microservicios
+- Computación sin Servidor
+- Puertas de Enlace de API
+- Herramientas de Observación y Monitoreo
 
+¿Te sientes intimidado? No lo estés. Paso a paso. Yo también estuve aprendiendo una vez, y aún lo estoy. Este espacio está destinado a compartir mi recorrido, pasado y en curso. Así que no estás solo.
 
-## Index
-1. [Get Started with Docker](#get-started-with-docker)
-2. [My Aggregated Study Notes, Perfect for KCNA](#my-aggregated-study-notes)
-3. [Introductory Kubernetes Courses](#introductory-kubernetes-courses)
-4. [K8s Video Theory](#k8s-video-theory)
-5. [Kubernetes Hands-On Learning Resources](#kubernetes-hands-on-learning-resources)
-6. [Installing Kubernetes Locally?](#installing-kubernetes-locally)
-
-
----
-
-## Get Started with Docker
-If you’re new to containerization, these resources will help you get started with Docker.
-
-- **[Deploy Cloud-Native Apps Using Azure Container Apps](https://learn.microsoft.com/en-us/credentials/applied-skills/deploy-cloud-native-apps-using-azure-container-apps/)**: Microsoft Learn’s module that teaches how to deploy cloud-native applications using Azure Container Apps, ideal for Azure enthusiasts.
-
-- **[Docker Essentials - Cognitive Class](https://cognitiveclass.ai/courses/docker-essentials)**: A beginner-level course on Docker, covering container basics, how to work with Docker images and containers, and managing Docker Hub.
+## Índice
+1. [Empezar con Docker](#empezar-con-docker)
+2. [Mis Apuntes de Estudio, Perfectos para KCNA](#mis-apuntes-de-estudio)
+3. [Cursos Introductorios de Kubernetes](#cursos-introductorios-de-kubernetes)
+4. [Teoría de Kubernetes en Video](#teoria-de-kubernetes-en-video)
+5. [Recursos de Aprendizaje Práctico de Kubernetes](#recursos-de-aprendizaje-practico-de-kubernetes)
+6. [¿Instalar Kubernetes Localmente?](#instalar-kubernetes-localmente)
 
 ---
 
-## My Aggregated Study Notes
-- **[Study Notes](https://github.com/catinahat85/GitGudAtCloudNative/blob/main/learning-resources/kubernetes/Kubernetes%20Cloud%20Native%20Study%20Guide.pdf)**: Taken from a variety of sources, including the official docs, they have been beneficial when I have been stuck. If you're considering going for your KCNA, these are great to read over.
-- **[Lofi Study Cram](https://www.youtube.com/watch?v=ipDBBMcSJDM&ab_channel=CloudFiBeats)**: A relaxed, narrated version of the study notes created with AWS Polly, set over my own Lofi beats meant for you to listen to while exercising, driving or working. it works for me, so I figured I'd share.
+## Empezar con Docker
+Si eres nuevo en la contenedorización, estos recursos te ayudarán a comenzar con Docker.
+
+- **[Despliega Aplicaciones Cloud Native Usando Azure Container Apps](https://learn.microsoft.com/en-us/credentials/applied-skills/deploy-cloud-native-apps-using-azure-container-apps/)**: Módulo de Microsoft Learn que enseña cómo desplegar aplicaciones nativas de la nube utilizando Azure Container Apps, ideal para entusiastas de Azure.
+
+- **[Fundamentos de Docker - Cognitive Class](https://cognitiveclass.ai/courses/docker-essentials)**: Curso de nivel principiante sobre Docker, que cubre conceptos básicos de contenedores, cómo trabajar con imágenes y contenedores de Docker, y administrar Docker Hub.
 
 ---
 
-## Introductory Kubernetes Courses
-Not sure what Kubernetes (K8s) is? Start here with these foundational courses.
+## Mis Apuntes de Estudio
+- **[Apuntes de Estudio](https://github.com/catinahat85/GitGudAtCloudNative/blob/main/learning-resources/kubernetes/Kubernetes%20Cloud%20Native%20Study%20Guide.pdf)**: Tomados de varias fuentes, incluyendo la documentación oficial, han sido útiles cuando he estado atascado. Si estás considerando obtener tu KCNA, son excelentes para revisar.
+- **[Lofi Study Cram](https://www.youtube.com/watch?v=ipDBBMcSJDM&ab_channel=CloudFiBeats)**: Una versión narrada y relajante de los apuntes de estudio, creada con AWS Polly, sobre mis propios beats de Lofi para que puedas escuchar mientras haces ejercicio, conduces o trabajas. A mí me funciona, así que pensé en compartirlo.
 
-- **[Linux Foundation Introduction to Kubernetes](https://training.linuxfoundation.org/training/introduction-to-kubernetes/)**: Official introductory course by the Linux Foundation.
+---
+
+## Cursos Introductorios de Kubernetes
+¿No estás seguro de qué es Kubernetes (K8s)? Comienza aquí con estos cursos básicos.
+
+- **[Introducción a Kubernetes de Linux Foundation](https://training.linuxfoundation.org/training/introduction-to-kubernetes/)**: Curso introductorio oficial de la Fundación Linux.
   
-- **[Linux Foundation Introduction to Kubernetes on EdX](https://www.edx.org/learn/kubernetes/the-linux-foundation-introduction-to-kubernetes)**: The same official course, hosted on EdX.
+- **[Introducción a Kubernetes de Linux Foundation en EdX](https://www.edx.org/learn/kubernetes/the-linux-foundation-introduction-to-kubernetes)**: El mismo curso oficial, disponible en EdX.
 
-- **[Civo Academy](https://www.civo.com/academy)**: Free Kubernetes and cloud-native technology courses covering the essentials of cloud-native development, containers, and Kubernetes.
-
----
-
-## K8s Video Theory 
-A couple of reccomended videos that explain Kubernetes concepts, uses cases etc.
-
-- **[Learn Kubernetes - KodeKloud](https://youtu.be/XuSQU5Grv1g?si=cRYIMRJ74BC4FiT0)**: A comprehensive beginner-friendly introduction to Kubernetes by KodeKloud, covering the core concepts and practical demonstrations.
-
-- **[Kubernetes Tutorial - Techworld with Nana](https://youtu.be/X48VuDVv0do?si=WtiwUqi1CHDnJum_)**: Another excellent Kubernetes tutorial by Techworld with Nana, offering clear explanations and hands-on examples.
+- **[Academia de Civo](https://www.civo.com/academy)**: Cursos gratuitos de tecnología Kubernetes y Cloud Native, que cubren los conceptos básicos del desarrollo Cloud Native, contenedores y Kubernetes.
 
 ---
 
-## Kubernetes Hands-On Learning Resources
-Here you will find resources to help you practice Kubernetes with real-world, hands-on labs and environments.
+## Teoría de Kubernetes en Video
+Algunos videos recomendados que explican conceptos de Kubernetes, casos de uso, etc.
 
-- **[Google Cloud Kubernetes Lab](https://www.cloudskillsboost.google/course_templates/783)**: Hands-on Kubernetes lab offered by Google Cloud.
+- **[Aprende Kubernetes - KodeKloud](https://youtu.be/XuSQU5Grv1g?si=cRYIMRJ74BC4FiT0)**: Una introducción completa y amigable para principiantes sobre Kubernetes, presentada por KodeKloud, que cubre los conceptos básicos y demostraciones prácticas.
 
-- **[KillerCoda](https://killercoda.com/)**: An interactive learning platform for Kubernetes with real scenarios.
+- **[Tutorial de Kubernetes - Techworld con Nana](https://youtu.be/X48VuDVv0do?si=WtiwUqi1CHDnJum_)**: Otro excelente tutorial de Kubernetes de Techworld con Nana, que ofrece explicaciones claras y ejemplos prácticos.
 
-- **[Killer Shell](https://killer.sh/)**: Practice environment for Kubernetes, great for preparing for the CKA/CKAD exams.
-
-- **[Play with K8s](https://labs.play-with-k8s.com/)**: A free tool that lets you create Kubernetes clusters in your browser and experiment.
-
-- **[IBM Kubernetes Service Tutorials](https://www.ibm.com/products/kubernetes-service/kubernetes-tutorials)**: IBM’s collection of Kubernetes tutorials to help you get started with managing applications in Kubernetes clusters using the IBM Kubernetes Service.
-
-- **[Get Started with Kubernetes](https://collabnix.github.io/kubelabs/)**: An amazing list of Kubernetes Labs and Tutorials
 ---
 
-## Installing Kubernetes Locally
-Ready to start working with K8s locally? Here are some ways to do it. Docker Desktop and Multipass are probably easiest, but if you are up for it, spin up Minikube or K3s!
+## Recursos de Aprendizaje Práctico de Kubernetes
+Aquí encontrarás recursos que te ayudarán a practicar Kubernetes con laboratorios y entornos prácticos.
 
+- **[Laboratorio de Kubernetes de Google Cloud](https://www.cloudskillsboost.google/course_templates/783)**: Laboratorio práctico de Kubernetes ofrecido por Google Cloud.
 
-- **[MicroK8s with Multipass](https://microk8s.io/docs/install-multipass)**: MicroK8s is a small, fast, and secure Kubernetes installation from Canonical, ideal for local setups. Multipass creates isolated VMs to run MicroK8s, simplifying the process of spinning up Kubernetes clusters on your local machine.
+- **[KillerCoda](https://killercoda.com/)**: Una plataforma de aprendizaje interactivo para Kubernetes con escenarios reales.
 
-- **[Docker Desktop Kubernetes](https://docs.docker.com/desktop/kubernetes/)**: Docker Desktop includes a simple way to enable a single-node Kubernetes cluster on your local machine. If you are already using Docker for container development, this is an easy way to integrate Kubernetes into your workflow.
+- **[Killer Shell](https://killer.sh/)**: Entorno de práctica para Kubernetes, ideal para preparar los exámenes CKA/CKAD.
 
-- **[Minikube](https://minikube.sigs.k8s.io/docs/)**: Minikube is a tool that lets you run Kubernetes locally on your machine. It supports all Kubernetes features and is an excellent option for beginners who want a full Kubernetes experience on their local machine.
+- **[Play with K8s](https://labs.play-with-k8s.com/)**: Herramienta gratuita que te permite crear clústeres de Kubernetes en tu navegador y experimentar.
 
-- **[K3s](https://k3s.io/)**: Lightweight Kubernetes distribution by Rancher Labs. K3s is a simplified and minimal installation of Kubernetes that works well for local development and testing, particularly on edge devices or low-resource environments.
+- **[Tutoriales del Servicio de Kubernetes de IBM](https://www.ibm.com/products/kubernetes-service/kubernetes-tutorials)**: Colección de tutoriales de Kubernetes de IBM para ayudarte a comenzar a gestionar aplicaciones en clústeres de Kubernetes usando el Servicio de Kubernetes de IBM.
 
+- **[Comienza con Kubernetes](https://collabnix.github.io/kubelabs/)**: Una increíble lista de laboratorios y tutoriales de Kubernetes.
 
+---
+
+## Instalar Kubernetes Localmente
+¿Listo para trabajar con K8s localmente? Aquí tienes algunas formas de hacerlo. Docker Desktop y Multipass probablemente sean las opciones más fáciles, ¡pero si te animas, lanza Minikube o K3s!
+
+- **[MicroK8s con Multipass](https://microk8s.io/docs/install-multipass)**: MicroK8s es una instalación de Kubernetes pequeña, rápida y segura de Canonical, ideal para configuraciones locales. Multipass crea máquinas virtuales aisladas para ejecutar MicroK8s, simplificando el proceso de crear clústeres de Kubernetes en tu máquina local.
+
+- **[Kubernetes en Docker Desktop](https://docs.docker.com/desktop/kubernetes/)**: Docker Desktop incluye una forma sencilla de habilitar un clúster de Kubernetes de un solo nodo en tu máquina local. Si ya estás utilizando Docker para desarrollo de contenedores, esta es una forma fácil de integrar Kubernetes en tu flujo de trabajo.
+
+- **[Minikube](https://minikube.sigs.k8s.io/docs/)**: Minikube es una herramienta que te permite ejecutar Kubernetes localmente en tu máquina. Soporta todas las características de Kubernetes y es una excelente opción para principiantes que desean una experiencia completa de Kubernetes en su máquina local.
+
+- **[K3s](https://k3s.io/)**: Distribución ligera de Kubernetes de Rancher Labs. K3s es una instalación simplificada y mínima de Kubernetes que funciona bien para desarrollo y pruebas locales, particularmente en dispositivos de borde o entornos con pocos recursos.
 
