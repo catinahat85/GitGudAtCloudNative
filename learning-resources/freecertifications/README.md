@@ -19,6 +19,13 @@
 - [Harness Continuous Delivery Developer](https://university-registration.harness.io/certified-continuous-delivery-developer)
 - [Harness Cloud Cost Management Developer](https://university-registration.harness.io/cloud-cost-management-developer)
 - [Harness Certified Internal Developer Portal Developer](https://university-registration.harness.io/certified-internal-developer-portal-developer)
+- [Harness Cloud Cost Management Developer](https://university-registration.harness.io/cloud-cost-management-developer) <== NEW
+- [Harness Certified Chaos Engineering Developer](https://university-registration.harness.io/chaos-engineering-developer) <== NEW
+- [Harness Certified Security Testing Orchestration Developer](https://university-registration.harness.io/security-testing-orchestration-developer) <== NEW
+- [Harness Certified Continuous Integration Developer](https://university-registration.harness.io/certified-continuous-integration-developer) <== NEW
+- [Harness Certified Feature Flags Developer](https://university-registration.harness.io/feature-flags-developer) <== NEW
+- [Harness Certified Software Engineering Insights Developer](https://university-registration.harness.io/certified-software-engineering-insights-developer) <== NEW
+
 
 ## ISC2
 - [ISC2 Certified in Cybersecurity](https://www.isc2.org/certifications/cc)
