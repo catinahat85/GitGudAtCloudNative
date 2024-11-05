@@ -7,12 +7,12 @@
 ## 📁 Estructura de la Carpeta
 
 1. **my-projects**: Aquí encontrarás mis proyectos completados y en progreso, que muestran trabajos prácticos en la nube, DevOps y automatización.
-- [Mis Proyectos](https://github.com/catinahat85/GitGudAtCloudNative/tree/main/Projects/my-projects)
+- [Mis Proyectos](https://github.com/catinahat85/GitGudAtCloudNative/tree/Spanish/Projects/my-projects)
    - Desde pequeñas pruebas de concepto hasta despliegues full-stack, cada proyecto profundiza en tecnologías clave de cloud-native, diseño de arquitectura, pipelines de CI/CD y más.
    - Cada proyecto incluye documentación detallada, que cubre objetivos, arquitectura, instrucciones de configuración e ideas obtenidas durante el desarrollo.
 
 2. **project-ideas**: Un banco de ideas de proyectos diseñado para ampliar los límites en el espacio de la Nube y DevOps.
-- [Ideas de Proyectos](https://github.com/catinahat85/GitGudAtCloudNative/tree/main/Projects/project-ideas)
+- [Ideas de Proyectos](https://github.com/catinahat85/GitGudAtCloudNative/tree/Spanish/Projects/project-ideas)
    - Aquí descubrirás ideas que van desde principiantes hasta avanzados, enfocadas en el desarrollo de habilidades, resolución de problemas y escenarios del mundo real.
    - Las ideas de proyectos exploran diversas áreas: infraestructura automatizada como código (IaC), microservicios en contenedores, fortalecimiento de seguridad, despliegues multi-nube y aplicaciones creativas de Kubernetes y GitOps.
 
