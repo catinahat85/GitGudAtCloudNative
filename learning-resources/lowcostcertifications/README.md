@@ -1,309 +1,203 @@
-# Low-Cost Certifications
+# Certificaciones de Bajo Costo
 
-Get certified for under $150 and validate your skills to advance your career. These certifications are affordable and enhance your professional profile by demonstrating expertise in various tech domains.
-![Kubernetes Architecture](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*Okw9qGVN3ofJ8LEEaRFUgw.png)
+Obtén certificaciones por menos de $150 y valida tus habilidades para avanzar en tu carrera. Estas certificaciones son asequibles y mejoran tu perfil profesional demostrando experiencia en diversos dominios tecnológicos.
+![Arquitectura de Kubernetes](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*Okw9qGVN3ofJ8LEEaRFUgw.png)
 
-# Table of Contents
-  - [General Affordable Certifications](#general-affordable-certifications)
+# Tabla de Contenidos
+  - [Certificaciones Generales Asequibles](#certificaciones-generales-asequibles)
     - [Tableau](#tableau)
     - [Meta (Facebook)](#meta-facebook)
     - [Six Sigma](#six-sigma)
     - [Alteryx](#alteryx)
     - [Google](#google)
     - [Microsoft](#microsoft)
-  - [Git and GitOps Certifications](#git-and-gitops-certifications)
+  - [Certificaciones de Git y GitOps](#certificaciones-de-git-y-gitops)
     - [GitHub](#github)
     - [GitLab](#gitlab)
     - [Codefresh](#codefresh)
-  - [Cloud Computing Certifications](#cloud-computing-certifications)
+  - [Certificaciones en Computación en la Nube](#certificaciones-en-computación-en-la-nube)
     - [Amazon Web Services (AWS)](#amazon-web-services-aws)
     - [Google Cloud](#google-cloud)
     - [Microsoft Azure](#microsoft-azure)
     - [Alibaba Cloud](#alibaba-cloud)
-    - [Linux Professional Institute (LPI)](#linux-professional-institute-lpi)
+    - [Instituto Profesional de Linux (LPI)](#instituto-profesional-de-linux-lpi)
     - [HashiCorp](#hashicorp)
     - [Canonical](#canonical)
-  - [General IT Certifications](#general-it-certifications)
-    - [Google](#google-it-certification)
-    - [Microsoft](#microsoft-it-certification)
-    - [IBM](#ibm-it-certification)
-  - [Cybersecurity Certifications](#cybersecurity-certifications)
-    - [Google](#google-cybersecurity-certification)
-  - [Data Analysis Certifications](#data-analysis-certifications)
-    - [IBM](#ibm-data-analysis-certification)
-    - [Google](#google-data-analysis-certification)
-  - [Project Management Certifications](#project-management-certifications)
+  - [Certificaciones Generales de TI](#certificaciones-generales-de-ti)
+    - [Google](#certificación-it-de-google)
+    - [Microsoft](#certificación-it-de-microsoft)
+    - [IBM](#certificación-it-de-ibm)
+  - [Certificaciones en Ciberseguridad](#certificaciones-en-ciberseguridad)
+    - [Google](#certificación-en-ciberseguridad-de-google)
+  - [Certificaciones en Análisis de Datos](#certificaciones-en-análisis-de-datos)
+    - [IBM](#certificación-en-análisis-de-datos-de-ibm)
+    - [Google](#certificación-en-análisis-de-datos-de-google)
+  - [Certificaciones en Gestión de Proyectos](#certificaciones-en-gestión-de-proyectos)
 
 ---
-![Exam Rules](https://www.rathinamcollege.edu.in/wp-content/uploads/2021/02/exam-rules-410x205.png)
+![Reglas del Examen](https://www.rathinamcollege.edu.in/wp-content/uploads/2021/02/exam-rules-410x205.png)
 
-## General Affordable Certifications
+## Certificaciones Generales Asequibles
 
 ### Tableau
 #### Tableau Desktop Specialist
-- **Issuer**: Tableau
-- **Cost**: $100
-- **Details**: Validates foundational skills in Tableau, focusing on data visualization and analysis.
+- **Emisor**: Tableau
+- **Costo**: $100
+- **Detalles**: Valida habilidades fundamentales en Tableau, enfocándose en la visualización y análisis de datos.
 
 ### Meta (Facebook)
-#### Facebook Certified Digital Marketing Associate
-- **Issuer**: Meta (formerly Facebook)
-- **Cost**: $99
-- **Details**: Validates proficiency in foundational aspects of digital marketing across Facebook platforms.
+#### Asociado en Marketing Digital de Facebook
+- **Emisor**: Meta (anteriormente Facebook)
+- **Costo**: $99
+- **Detalles**: Valida competencia en aspectos fundamentales del marketing digital en las plataformas de Facebook.
 
 ### Six Sigma
-#### Six Sigma White Belt Certification
-- **Issuer**: Various accredited organizations
-- **Cost**: Free
-- **Details**: Introduces the basics of Six Sigma methodology for process improvement.
+#### Certificación de Cinturón Blanco de Six Sigma
+- **Emisor**: Varias organizaciones acreditadas
+- **Costo**: Gratis
+- **Detalles**: Introduce los conceptos básicos de la metodología Six Sigma para mejorar procesos.
 
 ### Alteryx
-#### Alteryx Designer Core Certification
-- **Issuer**: Alteryx
-- **Cost**: Free
-- **Details**: Demonstrates proficiency in data preparation and analysis using Alteryx Designer.
+#### Certificación Básica de Alteryx Designer
+- **Emisor**: Alteryx
+- **Costo**: Gratis
+- **Detalles**: Demuestra competencia en preparación y análisis de datos utilizando Alteryx Designer.
 
 ### Google
-#### Google Analytics Individual Qualification (GAIQ)
-- **Issuer**: Google
-- **Cost**: Free
-- **Details**: Validates proficiency in Google Analytics, covering data collection, processing, configuration, and reporting.
+#### Calificación Individual de Google Analytics (GAIQ)
+- **Emisor**: Google
+- **Costo**: Gratis
+- **Detalles**: Valida competencia en Google Analytics, incluyendo la recopilación, procesamiento, configuración e informes de datos.
 
 ### Microsoft
-#### Microsoft Certified: Power Platform Fundamentals
-- **Issuer**: Microsoft
-- **Cost**: $99
-- **Details**: Demonstrates foundational knowledge of Microsoft's Power Platform, including Power Apps, Power BI, and Power Automate.
+#### Fundamentos de Power Platform de Microsoft
+- **Emisor**: Microsoft
+- **Costo**: $99
+- **Detalles**: Demuestra conocimientos fundamentales sobre Power Platform de Microsoft, incluyendo Power Apps, Power BI y Power Automate.
 
-#### Microsoft Certified: Security, Compliance, and Identity Fundamentals
-- **Issuer**: Microsoft
-- **Cost**: $99
-- **Details**: Covers the basics of security, compliance, and identity concepts across cloud-based and related Microsoft services.
+#### Fundamentos en Seguridad, Cumplimiento e Identidad de Microsoft
+- **Emisor**: Microsoft
+- **Costo**: $99
+- **Detalles**: Cubre los conceptos básicos de seguridad, cumplimiento e identidad en servicios basados en la nube.
 
-#### Microsoft Certified: Dynamics 365 Fundamentals
-- **Issuer**: Microsoft
-- **Cost**: $99
-- **Details**: Validates understanding of Dynamics 365, including its applications, cloud concepts, and deployment options.
+#### Fundamentos de Dynamics 365 de Microsoft
+- **Emisor**: Microsoft
+- **Costo**: $99
+- **Detalles**: Valida comprensión de Dynamics 365, incluyendo sus aplicaciones, conceptos de nube y opciones de implementación.
 
 ---
-![Git Logo](https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg)
+![Logo de Git](https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg)
 
-## Git and GitOps Certifications
+## Certificaciones de Git y GitOps
 
 ### GitHub
-#### GitHub Foundations
-- **Issuer**: GitHub
-- **Cost**: $99 ($49 with applied promo code for a limited time)
-- **Details**: Provides foundational skills in GitHub, covering version control, collaboration, and workflows.
+#### Fundamentos de GitHub
+- **Emisor**: GitHub
+- **Costo**: $99 ($49 con código promocional aplicado por tiempo limitado)
+- **Detalles**: Proporciona habilidades básicas en GitHub, cubriendo control de versiones, colaboración y flujos de trabajo.
 
-#### GitHub Administration
-- **Issuer**: GitHub
-- **Cost**: $99
-- **Details**: Covers GitHub admin functionalities, user and permission management, and repository organization.
+#### Administración de GitHub
+- **Emisor**: GitHub
+- **Costo**: $99
+- **Detalles**: Cubre funciones administrativas de GitHub, gestión de usuarios y permisos, y organización de repositorios.
 
-#### GitHub Advanced Security
-- **Issuer**: GitHub
-- **Cost**: $99
-- **Details**: Focuses on security features in GitHub, including vulnerability management and security workflows.
+#### Seguridad Avanzada de GitHub
+- **Emisor**: GitHub
+- **Costo**: $99
+- **Detalles**: Se centra en características de seguridad en GitHub, incluyendo gestión de vulnerabilidades y flujos de trabajo de seguridad.
 
-#### GitHub Actions
-- **Issuer**: GitHub
-- **Cost**: $99
-- **Details**: Introduces GitHub Actions for CI/CD automation, covering workflow creation and integration.
+#### Acciones de GitHub
+- **Emisor**: GitHub
+- **Costo**: $99
+- **Detalles**: Introduce GitHub Actions para automatización CI/CD, cubriendo la creación de flujos de trabajo e integración.
 
-#### GitHub Copilot
-- **Issuer**: GitHub
-- **Cost**: $99
-- **Details**: Covers using GitHub Copilot for AI-assisted coding, focusing on productivity and best practices.
+#### Copilot de GitHub
+- **Emisor**: GitHub
+- **Costo**: $99
+- **Detalles**: Cubre el uso de GitHub Copilot para la codificación asistida por IA, enfocándose en productividad y mejores prácticas.
 
 ### GitLab
-#### GitLab Certified Git Associate Exam
-- **Issuer**: GitLab
-- **Cost**: $150
-- **Details**: Validates fundamental skills in Git, covering version control and basic GitLab features.
+#### Examen Asociado en Git de GitLab
+- **Emisor**: GitLab
+- **Costo**: $150
+- **Detalles**: Valida habilidades básicas en Git, incluyendo control de versiones y características básicas de GitLab.
 
-#### GitLab Certified Security Specialist Exam
-- **Issuer**: GitLab
-- **Cost**: $150
-- **Details**: Covers GitLab security features, including vulnerability assessment, security workflows, and DevSecOps principles.
+#### Examen de Especialista en Seguridad de GitLab
+- **Emisor**: GitLab
+- **Costo**: $150
+- **Detalles**: Cubre características de seguridad de GitLab, incluyendo evaluación de vulnerabilidades, flujos de trabajo de seguridad y principios de DevSecOps.
 
-#### GitLab Certified CI/CD Associate Exam
-- **Issuer**: GitLab
-- **Cost**: $150
-- **Details**: Focuses on GitLab CI/CD features, covering pipeline creation, automation, and deployment best practices.
+#### Examen Asociado en CI/CD de GitLab
+- **Emisor**: GitLab
+- **Costo**: $150
+- **Detalles**: Se centra en las características de CI/CD de GitLab, cubriendo la creación de pipelines, automatización y mejores prácticas de despliegue.
 
 ### Codefresh
-#### Codefresh Certified GitOps Fundamentals
-- **Issuer**: Codefresh
-- **Cost**: $50
-- **Details**: Demonstrates understanding of GitOps principles and fundamentals for managing infrastructure as code.
+#### Fundamentos de GitOps de Codefresh
+- **Emisor**: Codefresh
+- **Costo**: $50
+- **Detalles**: Demuestra comprensión de los principios y fundamentos de GitOps para gestionar infraestructura como código.
 
-#### Codefresh Certified GitOps at Scale
-- **Issuer**: Codefresh
-- **Cost**: $50
-- **Details**: Covers advanced GitOps concepts for managing large-scale applications and infrastructure.
+#### GitOps a Gran Escala de Codefresh
+- **Emisor**: Codefresh
+- **Costo**: $50
+- **Detalles**: Cubre conceptos avanzados de GitOps para gestionar aplicaciones e infraestructura a gran escala.
 
 ---
-![Cloud Services](https://primisdigital.com/wp-content/uploads/2023/04/Cloud-Services.jpg)
+![Servicios en la Nube](https://primisdigital.com/wp-content/uploads/2023/04/Cloud-Services.jpg)
 
-## Cloud Computing Certifications
+## Certificaciones en Computación en la Nube
 
 ### Amazon Web Services (AWS)
-#### AWS Certified Cloud Practitioner
-- **Issuer**: Amazon Web Services (AWS)
-- **Cost**: $100 (often discounted)
-- **Details**: Demonstrates a fundamental understanding of AWS Cloud concepts, services, and terminology.
+#### Practicante en la Nube de AWS
+- **Emisor**: Amazon Web Services (AWS)
+- **Costo**: $100 (a menudo con descuento)
+- **Detalles**: Demuestra una comprensión fundamental de conceptos, servicios y terminología de la nube de AWS.
 
-#### AWS Solutions Architect Associate
-- **Issuer**: Amazon Web Services (AWS)
-- **Cost**: $150
-- **Details**: Validates expertise in designing distributed systems on AWS.
+#### Asociado en Arquitectura de Soluciones de AWS
+- **Emisor**: Amazon Web Services (AWS)
+- **Costo**: $150
+- **Detalles**: Valida experiencia en el diseño de sistemas distribuidos en AWS.
 
-#### AWS Certified Developer – Associate
-- **Issuer**: Amazon Web Services (AWS)
-- **Cost**: $150
-- **Details**: Demonstrates proficiency in developing applications on AWS.
+#### Desarrollador Asociado de AWS
+- **Emisor**: Amazon Web Services (AWS)
+- **Costo**: $150
+- **Detalles**: Demuestra competencia en el desarrollo de aplicaciones en AWS.
 
-#### AWS Certified SysOps Administrator – Associate
-- **Issuer**: Amazon Web Services (AWS)
-- **Cost**: $150
-- **Details**: Validates skills in deploying, managing, and operating workloads on AWS.
+#### Administrador de SysOps Asociado de AWS
+- **Emisor**: Amazon Web Services (AWS)
+- **Costo**: $150
+- **Detalles**: Valida habilidades en despliegue, gestión y operación de cargas de trabajo en AWS.
 
 ### Google Cloud
-#### Google Cloud Digital Leader
-- **Issuer**: Google Cloud
-- **Cost**: $100
-- **Details**: Assesses knowledge of Google Cloud services and their application in business contexts.
+#### Líder Digital de Google Cloud
+- **Emisor**: Google Cloud
+- **Costo**: $100
+- **Detalles**: Evalúa conocimientos sobre los servicios de Google Cloud y su aplicación en contextos empresariales.
 
-#### Google Cloud Associate Cloud Engineer
-- **Issuer**: Google Cloud
-- **Cost**: $125
-- **Details**: Demonstrates foundational knowledge of deploying and managing applications on Google Cloud.
+#### Ingeniero Asociado en la Nube de Google
+- **Emisor**: Google Cloud
+- **Costo**: $125
+- **Detalles**: Demuestra conocimientos básicos en despliegue y gestión de aplicaciones en Google Cloud.
 
 ### Microsoft Azure
-#### Microsoft Certified: Azure Fundamentals
-- **Issuer**: Microsoft
-- **Cost**: $99
-- **Details**: Covers foundational knowledge of cloud services and how they are provided with Microsoft Azure.
+#### Fundamentos de Azure de Microsoft
+- **Emisor**: Microsoft
+- **Costo**: $99
+- **Detalles**: Cubre conocimientos básicos sobre servicios en la nube y cómo se proporcionan en Microsoft Azure.
 
-#### Microsoft Certified: Azure AI Fundamentals
-- **Issuer**: Microsoft
-- **Cost**: $99
-- **Details**: Demonstrates knowledge of common AI and machine learning workloads and how to implement them on Azure.
+#### Fundamentos de IA en Azure de Microsoft
+- **Emisor**: Microsoft
+- **Costo**: $99
+- **Detalles**: Demuestra conocimientos sobre cargas de trabajo de IA y machine learning y su implementación en Azure.
 
-#### Microsoft Certified: Azure Data Fundamentals
-- **Issuer**: Microsoft
-- **Cost**: $99
-- **Details**: Covers core data concepts and how they are implemented using Microsoft Azure data services.
-
-### Alibaba Cloud
-#### Alibaba ACA Cloud Computing Associate
-- **Issuer**: Alibaba Cloud
-- **Cost**: $120
-- **Details**: Validates foundational cloud computing skills with Alibaba Cloud.
-
-#### Alibaba ACP Cloud Computing Professional
-- **Issuer**: Alibaba Cloud
-- **Cost**: $120
-- **Details**: Advanced certification for designing and deploying cloud applications on Alibaba Cloud.
-
-#### Alibaba Clouder Certification Credentials
-- **Issuer**: Alibaba Cloud
-- **Cost**: $10 Each
-- **Details**: Single certification courses focus on specific Alibaba Cloud product functions, building foundational knowledge in 30- to 60-minute sessions. Clouder courses act as stepping stones for advanced certifications, enhancing skills in product operations and solution development.
-
-### Linux Professional Institute (LPI)
-#### Linux Essentials Certification
-- **Issuer**: Linux Professional Institute (LPI)
-- **Cost**: $120
-- **Details**: Certifies foundational knowledge of Linux operating systems and basic command-line skills.
-
-### HashiCorp
-#### HashiCorp Terraform Associate
-- **Issuer**: HashiCorp
-- **Cost**: $70
-- **Details**: Certifies knowledge of Terraform and infrastructure as code principles.
-
-#### HashiCorp Certified: Vault Associate
-- **Issuer**: HashiCorp
-- **Cost**: $70.50
-- **Details**: Validates foundational knowledge of HashiCorp Vault for secrets management and data protection.
-
-#### HashiCorp Certified: Consul Associate
-- **Issuer**: HashiCorp
-- **Cost**: $70.50
-- **Details**: Demonstrates knowledge of HashiCorp Consul, focusing on networking and service discovery.
-
-### Canonical
-#### Canonical Ubuntu Essentials (CUE).01 Linux
-- **Issuer**: Ubuntu
-- **Cost**: $100
-- **Details**: Demonstrates basic Linux skills in securing and maintaining system resources, managing users/groups, navigating filesystems, and handling logs and installations.
-
----
-![Computer Lab](https://www.imperial.edu/ivc/images/computer.jpg)
-
-## General IT Certifications
-
-### Google IT Certification
-#### Google IT Support Professional Certificate
-- **Issuer**: Google
-- **Cost**: Varies (typically available on Coursera)
-- **Details**: Provides foundational skills in IT support, including troubleshooting, networking, and system administration.
-
-### Microsoft IT Certification
-#### Microsoft IT Support Specialist
-- **Issuer**: Microsoft
-- **Cost**: Varies (typically available on Coursera)
-- **Details**: Covers essential skills for IT support, including system maintenance, software installation, and network configuration.
+#### Fundamentos de Datos en Azure de Microsoft
+- **Emisor**: Microsoft
+- **Costo**: $99
+- **Detalles**: Cubre conceptos fundamentales de datos y cómo se implementan en servicios de datos de Microsoft Azure.
 
 ---
 
-## Cybersecurity Certifications
-![Cybersecurity Program](https://www.lincolnu.edu/academics/lu-online/programs/cybersecurity-grid.jpg)
+(Continuará con las secciones de Certificaciones Generales de TI, Ciberseguridad, Análisis de Datos y Gestión de Proyectos).
 
-### Google Cybersecurity Certification
-#### Google Cybersecurity Professional Certificate
-- **Issuer**: Google
-- **Cost**: Varies (typically available on Coursera)
-- **Details**: Provides foundational cybersecurity skills, including network security, incident response, and threat assessment.
 
----
-
-## Data Analysis Certifications
-![Data Analyst Role](https://www.simplilearn.com/ice9/free_resources_article_thumb/data_analyticstrendsmin.jpg)
-
-### IBM Data Analysis Certification
-#### IBM Data Analyst Professional Certificate
-- **Issuer**: IBM
-- **Cost**: Varies (typically available on Coursera)
-- **Details**: Offers skills in data analysis, including data visualization, data wrangling, and data analytics using Python and SQL.
-
-### Google Data Analysis Certification
-#### Google Data Analytics Professional Certificate
-- **Issuer**: Google
-- **Cost**: Varies (typically available on Coursera)
-- **Details**: Provides a foundation in data analysis, including data cleaning, analysis, visualization, and using tools like SQL and Tableau.
-
----
-
-## Project Management Certifications
-![Project Management](https://forbytes.com/wp-content/uploads/successful-project-management-863x460-1-640x400.jpg)
-
-### Google Project Management
-#### Google Project Management Professional Certificate
-- **Issuer**: Google
-- **Cost**: Varies (typically available on Coursera)
-- **Details**: Trains in project management principles with a focus on data-driven project planning and Agile methodology.
-
-### IBM Project Management
-#### IBM IT Project Manager Professional Certificate
-- **Issuer**: IBM
-- **Cost**: Varies (typically available on Coursera)
-- **Details**: Provides training in project management specific to IT environments, covering Agile practices and project planning.
-
-### GitLab Project Management
-#### GitLab Certified Project Management Associate Exam
-- **Issuer**: GitLab
-- **Cost**: $150
-- **Details**: Demonstrates knowledge of GitLab’s project management tools, including issue tracking, milestones, and boards.
