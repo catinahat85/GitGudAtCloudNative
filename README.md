@@ -14,7 +14,7 @@
 
 ## Evaluación "When 2 Kubernetes" con GPT
 - Utiliza mi instancia personalizada de GPT para evaluar si Kubernetes es adecuado para tu negocio, entrenada para ayudar a pequeñas y medianas empresas a determinar cuándo y cómo implementar Kubernetes.
-- [Evaluar el Despliegue de Kubernetes](https://github.com/catinahat85/GitGudAtCloudNative/blob/spanish/Projects/When-2-K8s-Evaluation-GPT.md)
+- [Evaluar el Despliegue de Kubernetes](https://github.com/catinahat85/GitGudAtCloudNative/blob/Spanish/Projects/When-2-K8s-Evaluation-GPT.md)
 
 ## Rutas de Aprendizaje
 - Encuentra rutas de aprendizaje detalladas para principiantes en computación en la nube/nativa, con opciones, ideas y costos asociados para cualquier ruta que te interese en computación en la nube.
