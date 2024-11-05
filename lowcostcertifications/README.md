@@ -3,6 +3,7 @@
 Get certified for under $150 and validate your skills to advance your career. These certifications are affordable and enhance your professional profile by demonstrating expertise in various tech domains.
 
 ---
+## General Affordable Certifications
 
 ### Tableau Desktop Specialist
 - **Issuer**: Tableau
@@ -23,10 +24,6 @@ Get certified for under $150 and validate your skills to advance your career. Th
 - **Issuer**: Alteryx
 - **Cost**: Free
 - **Details**: Demonstrates proficiency in data preparation and analysis using Alteryx Designer.
-
----
-
-## Additional Affordable Certifications
 
 ### Google Analytics Individual Qualification (GAIQ)
 - **Issuer**: Google
