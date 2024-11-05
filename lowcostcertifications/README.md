@@ -21,6 +21,7 @@ Get certified for under $150 and validate your skills to advance your career. Th
     - [Alibaba Cloud](#alibaba-cloud)
     - [Linux Professional Institute (LPI)](#linux-professional-institute-lpi)
     - [HashiCorp](#hashicorp)
+    - [Canonical](#canonical)
   - [General IT Certifications](#general-it-certifications)
     - [Google](#google-it-certification)
     - [Microsoft](#microsoft-it-certification)
@@ -91,11 +92,46 @@ Get certified for under $150 and validate your skills to advance your career. Th
 - **Cost**: $99 ($49 with applied promo code for a limited time)
 - **Details**: Provides foundational skills in GitHub, covering version control, collaboration, and workflows.
 
+#### GitHub Administration
+- **Issuer**: GitHub
+- **Cost**: $99
+- **Details**: Covers GitHub admin functionalities, user and permission management, and repository organization.
+
+#### GitHub Advanced Security
+- **Issuer**: GitHub
+- **Cost**: $99
+- **Details**: Focuses on security features in GitHub, including vulnerability management and security workflows.
+
+#### GitHub Actions
+- **Issuer**: GitHub
+- **Cost**: $99
+- **Details**: Introduces GitHub Actions for CI/CD automation, covering workflow creation and integration.
+
+#### GitHub Copilot
+- **Issuer**: GitHub
+- **Cost**: $99
+- **Details**: Covers using GitHub Copilot for AI-assisted coding, focusing on productivity and best practices.
+
 ### GitLab
 #### GitLab Certified Git Associate Exam
 - **Issuer**: GitLab
 - **Cost**: $150
 - **Details**: Validates fundamental skills in Git, covering version control and basic GitLab features.
+
+#### GitLab Certified Security Specialist Exam
+- **Issuer**: GitLab
+- **Cost**: $150
+- **Details**: Covers GitLab security features, including vulnerability assessment, security workflows, and DevSecOps principles.
+
+#### GitLab Certified Project Management Associate Exam
+- **Issuer**: GitLab
+- **Cost**: $150
+- **Details**: Demonstrates knowledge of GitLab’s project management tools, including issue tracking, milestones, and boards.
+
+#### GitLab Certified CI/CD Associate Exam
+- **Issuer**: GitLab
+- **Cost**: $150
+- **Details**: Focuses on GitLab CI/CD features, covering pipeline creation, automation, and deployment best practices.
 
 ### Codefresh
 #### Codefresh Certified GitOps Fundamentals
@@ -198,6 +234,12 @@ Get certified for under $150 and validate your skills to advance your career. Th
 - **Cost**: $70.50
 - **Details**: Demonstrates knowledge of HashiCorp Consul, focusing on networking and service discovery.
 
+### Canonical
+#### Canonical Ubuntu Essentials (CUE).01 Linux
+- **Issuer**: Ubuntu
+- **Cost**: $100
+- **Details**: Demonstrates basic Linux skills in securing and maintaining system resources, managing users/groups, navigating filesystems, and handling logs and installations.
+
 ---
 
 ## General IT Certifications
@@ -250,3 +292,5 @@ Get certified for under $150 and validate your skills to advance your career. Th
 - **Issuer**: Google
 - **Cost**: Varies (typically available on Coursera)
 - **Details**: Trains in project management principles with a focus on data-driven project planning and Agile methodology.
+
+---
