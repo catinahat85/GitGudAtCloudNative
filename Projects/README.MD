@@ -6,13 +6,13 @@ Welcome to my Projects folder! This space is dedicated to exploring, building, a
 
 ## 📁 Folder Structure
 
-1. **my-projects**: Here, you'll find completed and in-progress projects that showcase hands-on work in cloud, DevOps, and automation.
-- [My Projects](https://github.com/catinahat85/GitGudAtCloudNative/tree/main/Projects/my-projects) - A collection of hands-on projects that demonstrate practical applications in DevOps and cloud-native technologies.
+1. **my-projects**: Here, you'll find my completed and in-progress projects that showcase hands-on work in cloud, DevOps, and automation.
+- [My Projects](https://github.com/catinahat85/GitGudAtCloudNative/tree/main/Projects/my-projects)
    - From small proof-of-concepts to full-stack deployments, each project dives deep into key cloud-native technologies, architecture design, CI/CD pipelines, and more.
    - Detailed documentation is included for each project, covering objectives, architecture, setup instructions, and insights gained along the way.
 
 2. **project-ideas**: A brainstorm bank of project concepts designed to push boundaries in the Cloud and DevOps space.
-- [Project Ideas](https://github.com/catinahat85/GitGudAtCloudNative/tree/main/Projects/project-ideas) - A brainstorm bank with ideas for future projects in DevOps, Cloud Computing, and related technologies.
+- [Project Ideas](https://github.com/catinahat85/GitGudAtCloudNative/tree/main/Projects/project-ideas)
    - Here you'll discover ideas ranging from beginner to advanced, each focusing on skill-building, problem-solving, and real-world scenarios.
    - Project ideas explore a variety of areas: automated infrastructure as code (IaC), containerized microservices, security hardening, multi-cloud deployments, and creative applications of Kubernetes and GitOps.
 
