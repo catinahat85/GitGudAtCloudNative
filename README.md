@@ -16,7 +16,7 @@ Welcome to the repository! Here, you'll find a collection of resources designed 
 
 ## When 2 K8s Evaluation GPT
 - Use my custom GPT instance to Evaluate if K8s is right for your business, trained to help small and midsize enterprises determine when and how to deploy Kubernetes.
-- [Evaluate Kubernetes Deployment](./When-2-K8s-Evaluation-GPT.md)
+- [Evaluate Kubernetes Deployment](https://github.com/catinahat85/GitGudAtCloudNative/blob/main/Projects/When-2-K8s-Evaluation-GPT.md)
 
 ## Learning Pathways
 - Find detailed learning pathways for cloud/native computing beginners, with options, ideas, and associated costs for whatever path interests you in cloud computing..
