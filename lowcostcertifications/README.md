@@ -2,6 +2,14 @@
 
 Get certified for under $150 and validate your skills to advance your career. These certifications are affordable and enhance your professional profile by demonstrating expertise in various tech domains.
 
+# Table of Contents
+
+- [Low-Cost Certifications](#low-cost-certifications)
+  - [General Affordable Certifications](#general-affordable-certifications)
+  - [Git and GitOps Certifications](#git-and-gitops-certifications)
+  - [Cloud Provider Certifications](#cloud-provider-certifications)
+
+
 ---
 ## General Affordable Certifications
 
