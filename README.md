@@ -35,10 +35,10 @@ Welcome to the repository! Here, you'll find a collection of resources designed 
 
 ## FOR FREE?
 - Earn Professional Credentials for free. Kickstart your resume.
-- [Free Certifications](./freecertifications/README.md)
+- [Free Certifications](https://github.com/catinahat85/GitGudAtCloudNative/tree/main/learning-resources/freecertifications)
 
 - Prove your skills and earn Professional Credentials a low cost. Further your resume.
-- [Low Cost Certifications](./lowcostcertifications/README.md)
+- [Low Cost Certifications](https://github.com/catinahat85/GitGudAtCloudNative/tree/main/learning-resources/lowcostcertifications)
 
 ## Spanish Version
 - This repository is also available in Spanish. Click the link below to access all the resources in Spanish.
