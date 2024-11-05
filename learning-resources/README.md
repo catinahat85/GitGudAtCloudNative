@@ -15,7 +15,7 @@
 
 Además, compartiré mis opiniones personales sobre la mejor forma de comenzar y por qué recomiendo ciertos enfoques sobre otros. **Siéntete libre de contribuir** si tienes recursos o ideas que añadir.
 
-➡️ **[Explorar Recursos de Computación en la Nube](https://github.com/catinahat85/GitGudAtCloudNative/tree/main/learning-resources/cloudcomputing)**
+➡️ **[Explorar Recursos de Computación en la Nube](https://github.com/catinahat85/GitGudAtCloudNative/tree/Spanish/learning-resources/cloudcomputing)**
 
 ---
 
@@ -40,7 +40,7 @@ La mayoría de las cargas de trabajo en la nube integran una o más de estas her
 
 Una vez que tengas una comprensión sólida de la **Computación en la Nube**, da el salto a Cloud Native para entender el **siguiente nivel de operaciones en la nube**. He compilado recursos sobre cada una de estas tecnologías, por qué son importantes y los mejores puntos de partida.
 
-➡️ **[Explorar Recursos de Cloud Native](https://github.com/catinahat85/GitGudAtCloudNative/tree/main/learning-resources/kubernetes)**
+➡️ **[Explorar Recursos de Cloud Native](https://github.com/catinahat85/GitGudAtCloudNative/tree/Spanish/learning-resources/kubernetes)**
 
 ---
 
@@ -52,9 +52,9 @@ Una vez que tengas una comprensión sólida de la **Computación en la Nube**, d
 - Alternativas asequibles y exámenes de práctica
 - Consejos para estudiar eficazmente y aprobar exámenes sin necesidad de repetirlos
 
-➡️ **[Explorar Recursos de Certificaciones Gratuitas y de Insignias](https://github.com/catinahat85/GitGudAtCloudNative/tree/main/learning-resources/freecertifications)**
+➡️ **[Explorar Recursos de Certificaciones Gratuitas y de Insignias](https://github.com/catinahat85/GitGudAtCloudNative/tree/Spanish/learning-resources/freecertifications)**
 
-➡️ **[Explorar Recursos de Certificaciones de Bajo Costo](https://github.com/catinahat85/GitGudAtCloudNative/tree/main/learning-resources/lowcostcertifications)**
+➡️ **[Explorar Recursos de Certificaciones de Bajo Costo](https://github.com/catinahat85/GitGudAtCloudNative/tree/Spanish/learning-resources/lowcostcertifications)**
 
 ---
 
@@ -62,7 +62,7 @@ Una vez que tengas una comprensión sólida de la **Computación en la Nube**, d
 
 He incluido algunos de mis proyectos personales aquí para que veas ejemplos de cómo estoy aplicando estas tecnologías en escenarios del mundo real. Siéntete libre de explorar, aprender o incluso hacer un fork y contribuir a estos proyectos:
 
-➡️ **[Proyecto Beatsinthe.cloud](https://github.com/catinahat85/GitGudAtCloudNative/blob/main/My%20Personal%20Project.MD)**
+➡️ **[Proyecto Beatsinthe.cloud](https://github.com/catinahat85/GitGudAtCloudNative/tree/Spanish/Projects)**
 
 
 Ojala que esto les ayude!
