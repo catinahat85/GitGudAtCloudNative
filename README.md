@@ -42,4 +42,4 @@ Welcome to the repository! Here, you'll find a collection of resources designed 
 
 ## Spanish Version
 - This repository is also available in Spanish. Click the link below to access all the resources in Spanish.
-- [Versión en Español](./spanish-version/README.md)
+- [Versión en Español](https://github.com/catinahat85/GitGudAtCloudNative/tree/Spanish)
