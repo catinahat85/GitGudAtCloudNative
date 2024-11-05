@@ -5,10 +5,13 @@ Get certified for under $150 and validate your skills to advance your career. Th
 # Table of Contents
   - [General Affordable Certifications](#general-affordable-certifications)
   - [Git and GitOps Certifications](#git-and-gitops-certifications)
-  - [Cloud Provider Certifications](#cloud-provider-certifications)
-
+  - [Cloud Computing Certifications](#cloud-computing-certifications)
+  - [General IT Certifications](#general-it-certifications)
+  - [Cybersecurity Certifications](#cybersecurity-certifications)
+  - [Data Analysis Certifications](#data-analysis-certifications)
 
 ---
+
 ## General Affordable Certifications
 
 ### Tableau Desktop Specialist
@@ -51,6 +54,69 @@ Get certified for under $150 and validate your skills to advance your career. Th
 - **Cost**: $99
 - **Details**: Validates understanding of Dynamics 365, including its applications, cloud concepts, and deployment options.
 
+---
+
+## Git and GitOps Certifications
+
+### GitHub Foundations
+- **Issuer**: GitHub
+- **Cost**: $99 ($49 with applied promo code for a limited time)
+- **Details**: Provides foundational skills in GitHub, covering version control, collaboration, and workflows.
+
+### GitLab Certified Git Associate Exam
+- **Issuer**: GitLab
+- **Cost**: $150
+- **Details**: Validates fundamental skills in Git, covering version control and basic GitLab features.
+
+### Codefresh Certified GitOps Fundamentals
+- **Issuer**: Codefresh
+- **Cost**: $50
+- **Details**: Demonstrates understanding of GitOps principles and fundamentals for managing infrastructure as code.
+
+### Codefresh Certified GitOps at Scale
+- **Issuer**: Codefresh
+- **Cost**: $50
+- **Details**: Covers advanced GitOps concepts for managing large-scale applications and infrastructure.
+
+---
+
+## Cloud Computing Certifications
+
+### AWS Certified Cloud Practitioner
+- **Issuer**: Amazon Web Services (AWS)
+- **Cost**: $100 (often discounted)
+- **Details**: Demonstrates a fundamental understanding of AWS Cloud concepts, services, and terminology.
+
+### AWS Solutions Architect Associate
+- **Issuer**: Amazon Web Services (AWS)
+- **Cost**: $150
+- **Details**: Validates expertise in designing distributed systems on AWS.
+
+### AWS Certified Developer – Associate
+- **Issuer**: Amazon Web Services (AWS)
+- **Cost**: $150
+- **Details**: Demonstrates proficiency in developing applications on AWS.
+
+### AWS Certified SysOps Administrator – Associate
+- **Issuer**: Amazon Web Services (AWS)
+- **Cost**: $150
+- **Details**: Validates skills in deploying, managing, and operating workloads on AWS.
+
+### Google Cloud Digital Leader
+- **Issuer**: Google Cloud
+- **Cost**: $100
+- **Details**: Assesses knowledge of Google Cloud services and their application in business contexts.
+
+### Google Cloud Associate Cloud Engineer
+- **Issuer**: Google Cloud
+- **Cost**: $125
+- **Details**: Demonstrates foundational knowledge of deploying and managing applications on Google Cloud.
+
+### Microsoft Certified: Azure Fundamentals
+- **Issuer**: Microsoft
+- **Cost**: $99
+- **Details**: Covers foundational knowledge of cloud services and how they are provided with Microsoft Azure.
+
 ### Microsoft Certified: Azure AI Fundamentals
 - **Issuer**: Microsoft
 - **Cost**: $99
@@ -61,10 +127,25 @@ Get certified for under $150 and validate your skills to advance your career. Th
 - **Cost**: $99
 - **Details**: Covers core data concepts and how they are implemented using Microsoft Azure data services.
 
-### Microsoft Certified: Microsoft 365 Fundamentals
-- **Issuer**: Microsoft
-- **Cost**: $99
-- **Details**: Validates foundational knowledge of the considerations and benefits of adopting cloud services and the Software as a Service (SaaS) cloud model, focusing on Microsoft 365.
+### Alibaba ACA Cloud Computing Associate
+- **Issuer**: Alibaba Cloud
+- **Cost**: $120
+- **Details**: Validates foundational cloud computing skills with Alibaba Cloud.
+
+### Alibaba ACP Cloud Computing Professional
+- **Issuer**: Alibaba Cloud
+- **Cost**: $120
+- **Details**: Advanced certification for designing and deploying cloud applications on Alibaba Cloud.
+
+### Alibaba Clouder Certification Credentials
+- **Issuer**: Alibaba Cloud
+- **Cost**: $10 Each
+- **Details**: Single certification courses focus on specific Alibaba Cloud product functions, building foundational knowledge in 30- to 60-minute sessions. Clouder courses act as stepping stones for advanced certifications, enhancing skills in product operations and solution development.
+
+### Linux Essentials Certification
+- **Issuer**: Linux Professional Institute (LPI)
+- **Cost**: $120
+- **Details**: Certifies foundational knowledge of Linux operating systems and basic command-line skills.
 
 ### HashiCorp Terraform Associate
 - **Issuer**: HashiCorp
@@ -73,57 +154,50 @@ Get certified for under $150 and validate your skills to advance your career. Th
 
 ---
 
-### Git and GitOps Certifications
+## General IT Certifications
 
-**GitHub Foundations**
-- **Issuer**: GitHub
-- **Cost**: $99 ($49 with applied promo code for a limited time)
-- **Details**: Provides foundational skills in GitHub, covering version control, collaboration, and workflows.
+### Google IT Support Professional Certificate
+- **Issuer**: Google
+- **Cost**: Varies (typically available on Coursera)
+- **Details**: Provides foundational skills in IT support, including troubleshooting, networking, and system administration.
 
-**GitLab Certified Git Associate Exam**
-- **Issuer**: GitLab
-- **Cost**: $150
-- **Details**: Validates fundamental skills in Git, covering version control and basic GitLab features.
+### Microsoft IT Support Specialist
+- **Issuer**: Microsoft
+- **Cost**: Varies (typically available on Coursera)
+- **Details**: Covers essential skills for IT support, including system maintenance, software installation, and network configuration.
 
-**Codefresh Certified GitOps Fundamentals**
-- **Issuer**: Codefresh
-- **Cost**: $50
-- **Details**: Demonstrates understanding of GitOps principles and fundamentals for managing infrastructure as code.
-
-**Codefresh Certified GitOps at Scale**
-- **Issuer**: Codefresh
-- **Cost**: $50
-- **Details**: Covers advanced GitOps concepts for managing large-scale applications and infrastructure.
+### IBM IT Project Manager Professional Certificate
+- **Issuer**: IBM
+- **Cost**: Varies (typically available on Coursera)
+- **Details**: Provides training in project management specific to IT environments, covering Agile practices and project planning.
 
 ---
 
-## Cloud Provider Certifications
+## Cybersecurity Certifications
 
-**AWS**:
-- Certified Cloud Practitioner (often discounted): $100
-- Solutions Architect Associate: $150
-- Certified Developer – Associate: $150
-- Certified SysOps Administrator – Associate: $150
-
-**Google Cloud**:
-- Digital Leader: $100
-- Associate Cloud Engineer: $125
-
-**Microsoft Azure**:
-- Microsoft Certified: Azure Fundamentals (AZ-900): $99
-- Microsoft Certified: Azure AI Fundamentals (AI-900): $99
-- Microsoft Certified: Azure Data Fundamentals (DP-900): $99
-
-**Alibaba Cloud**:
-- ACA Cloud Computing Associate: $120
-- ACP Cloud Computing Professional: $120
-- ACP Big Data Professional: $120
-- ACP Cloud Security Professional: $120
-
-**Linux Professional Institute**:
-- Linux Essentials Certification (LPI): $120
+### Google Cybersecurity Professional Certificate
+- **Issuer**: Google
+- **Cost**: Varies (typically available on Coursera)
+- **Details**: Provides foundational cybersecurity skills, including network security, incident response, and threat assessment.
 
 ---
 
-These certifications offer a great way to validate and showcase your skills, helping you stand out in the tech industry. Good luck on your certification journey!
+## Data Analysis Certifications
+
+### IBM Data Analyst Professional Certificate
+- **Issuer**: IBM
+- **Cost**: Varies (typically available on Coursera)
+- **Details**: Offers skills in data analysis, including data visualization, data wrangling, and data analytics using Python and SQL.
+
+### Google Data Analytics Professional Certificate
+- **Issuer**: Google
+- **Cost**: Varies (typically available on Coursera)
+- **Details**: Provides a foundation in data analysis, including data cleaning, analysis, visualization, and using tools like SQL and Tableau.
+
+### Google Project Management Professional Certificate
+- **Issuer**: Google
+- **Cost**: Varies (typically available on Coursera)
+- **Details**: Trains in project management principles with a focus on data-driven project planning and Agile methodology.
+
+---
 
