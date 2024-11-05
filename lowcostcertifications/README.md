@@ -1,6 +1,7 @@
 # Low-Cost Certifications
 
 Get certified for under $150 and validate your skills to advance your career. These certifications are affordable and enhance your professional profile by demonstrating expertise in various tech domains.
+![Kubernetes Architecture](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*Okw9qGVN3ofJ8LEEaRFUgw.png)
 
 # Table of Contents
   - [General Affordable Certifications](#general-affordable-certifications)
@@ -34,6 +35,7 @@ Get certified for under $150 and validate your skills to advance your career. Th
   - [Project Management Certifications](#project-management-certifications)
 
 ---
+![Exam Rules](https://www.rathinamcollege.edu.in/wp-content/uploads/2021/02/exam-rules-410x205.png)
 
 ## General Affordable Certifications
 
@@ -84,6 +86,7 @@ Get certified for under $150 and validate your skills to advance your career. Th
 - **Details**: Validates understanding of Dynamics 365, including its applications, cloud concepts, and deployment options.
 
 ---
+![Git Logo](https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg)
 
 ## Git and GitOps Certifications
 
@@ -141,6 +144,7 @@ Get certified for under $150 and validate your skills to advance your career. Th
 - **Details**: Covers advanced GitOps concepts for managing large-scale applications and infrastructure.
 
 ---
+![Cloud Services](https://primisdigital.com/wp-content/uploads/2023/04/Cloud-Services.jpg)
 
 ## Cloud Computing Certifications
 
@@ -237,6 +241,7 @@ Get certified for under $150 and validate your skills to advance your career. Th
 - **Details**: Demonstrates basic Linux skills in securing and maintaining system resources, managing users/groups, navigating filesystems, and handling logs and installations.
 
 ---
+![Computer Lab](https://www.imperial.edu/ivc/images/computer.jpg)
 
 ## General IT Certifications
 
@@ -255,6 +260,7 @@ Get certified for under $150 and validate your skills to advance your career. Th
 ---
 
 ## Cybersecurity Certifications
+![Cybersecurity Program](https://www.lincolnu.edu/academics/lu-online/programs/cybersecurity-grid.jpg)
 
 ### Google Cybersecurity Certification
 #### Google Cybersecurity Professional Certificate
@@ -265,6 +271,7 @@ Get certified for under $150 and validate your skills to advance your career. Th
 ---
 
 ## Data Analysis Certifications
+![Data Analyst Role](https://images.shiksha.com/mediadata/shikshaOnline/mailers/2021/naukri-learning/oct/27oct/what-is-data-analyst.jpg)
 
 ### IBM Data Analysis Certification
 #### IBM Data Analyst Professional Certificate
@@ -281,6 +288,7 @@ Get certified for under $150 and validate your skills to advance your career. Th
 ---
 
 ## Project Management Certifications
+![Project Management](https://forbytes.com/wp-content/uploads/successful-project-management-863x460-1-640x400.jpg)
 
 ### Google Project Management
 #### Google Project Management Professional Certificate
