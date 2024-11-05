@@ -37,6 +37,6 @@
 - Demuestra tus habilidades y obtén credenciales profesionales a bajo costo. Avanza en tu currículum.
 - [Certificaciones de Bajo Costo](https://github.com/catinahat85/GitGudAtCloudNative/tree/Spanish/learning-resources/lowcostcertifications)
 
-## Versión en Español
+## Versión en Ingles
 - Este repositorio también está disponible en español. Haz clic en el enlace a continuación para acceder a todos los recursos en español.
-- [Versión en Español](https://github.com/catinahat85/GitGudAtCloudNative/blob/Spanish/spanish-version/README.md)
+- [Versión en Español](https://github.com/catinahat85/GitGudAtCloudNative/blob/main/README.md)
