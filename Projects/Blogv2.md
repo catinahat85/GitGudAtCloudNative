@@ -37,7 +37,7 @@ Tools Used:
 
 ### Pain Points:
 1. **Traffic Management and Networking** - Managing connections across AWS and DigitalOcean led to network complexities.
-2. **Cost Management** - Credits ran out, and maintaining two cloud providers was costly.
+2. **Cost Management** - Credits were running out, and maintaining two cloud providers was going to be costly.
 3. **Configuration Consistency** - Maintaining consistent setups across clouds added operational overhead.
 
 ### Solution:
