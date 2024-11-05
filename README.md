@@ -39,4 +39,4 @@
 
 ## Versión en Ingles
 - Este repositorio también está disponible en español. Haz clic en el enlace a continuación para acceder a todos los recursos en español.
-- [Versión en Español](https://github.com/catinahat85/GitGudAtCloudNative/blob/main/README.md)
+- [Versión en Ingles](https://github.com/catinahat85/GitGudAtCloudNative/blob/main/README.md)
