@@ -1,45 +1,42 @@
-![Introduction to Cloud Computing Achievement](https://yt3.googleusercontent.com/oe2Q9wYI94GnBLTfNmVYR_0B2BvS3E4o6xHHlKZkyWC23EMelJuO32KBxKXAoC9x3jtym7gtwg=s900-c-k-c0x00ffffff-no-rj)
+![Logro en Introducción a la Computación en la Nube](https://yt3.googleusercontent.com/oe2Q9wYI94GnBLTfNmVYR_0B2BvS3E4o6xHHlKZkyWC23EMelJuO32KBxKXAoC9x3jtym7gtwg=s900-c-k-c0x00ffffff-no-rj)
 
-## Learning Resources & Tools for those new to the Cloud, Containers & Kubernetes
+## Recursos de Aprendizaje y Herramientas para los Nuevos en la Nube, Contenedores y Kubernetes
 
-Welcome to the repository! Here, you'll find a collection of resources designed to help both beginners and small enterprises understand Cloud computing, containers, and working with Kubernetes (k8s). Whether you're looking for beginner-friendly material that explain complex concepts in simple terms (or how to explain to your kids what you do), or tools to evaluate Kubernetes deployment, we've got you covered.
+¡Bienvenido al repositorio! Aquí encontrarás una colección de recursos diseñados para ayudar tanto a principiantes como a pequeñas empresas a entender la computación en la nube, los contenedores y el trabajo con Kubernetes (k8s). Ya sea que estés buscando material para principiantes que explique conceptos complejos en términos simples (o cómo explicarle a tus hijos a qué te dedicas) o herramientas para evaluar el despliegue de Kubernetes, aquí tenemos lo que necesitas.
 
-## Contents
+## Contenido
 
-- [When 2 Kubernetes GPT Assessment Tool](#When-2-K8s-Evaluation-GPT)
-- [Learning Pathways and Certification Costs](#learning-pathways)
-- [Learning Resources](#learning-resources)
-- [For Free? (Certifications)](#for-free)
-- [Spanish Version](#spanish-version)
+- [Evaluación "When 2 Kubernetes" con GPT](#When-2-K8s-Evaluation-GPT)
+- [Rutas de Aprendizaje y Costos de Certificación](#learning-pathways)
+- [Recursos de Aprendizaje](#learning-resources)
+- [¿Gratis? (Certificaciones)](#for-free)
+- [Versión en Español](#spanish-version)
 
+## Evaluación "When 2 Kubernetes" con GPT
+- Utiliza mi instancia personalizada de GPT para evaluar si Kubernetes es adecuado para tu negocio, entrenada para ayudar a pequeñas y medianas empresas a determinar cuándo y cómo implementar Kubernetes.
+- [Evaluar el Despliegue de Kubernetes](https://github.com/catinahat85/GitGudAtCloudNative/blob/main/Projects/When-2-K8s-Evaluation-GPT.md)
 
+## Rutas de Aprendizaje
+- Encuentra rutas de aprendizaje detalladas para principiantes en computación en la nube/nativa, con opciones, ideas y costos asociados para cualquier ruta que te interese en computación en la nube.
+- [Rutas de Aprendizaje](./learning-pathways/README.md)
 
-## When 2 K8s Evaluation GPT
-- Use my custom GPT instance to Evaluate if K8s is right for your business, trained to help small and midsize enterprises determine when and how to deploy Kubernetes.
-- [Evaluate Kubernetes Deployment](https://github.com/catinahat85/GitGudAtCloudNative/blob/main/Projects/When-2-K8s-Evaluation-GPT.md)
+## Recursos de Aprendizaje
+- Recursos de bajo costo/gratuitos para aprender computación en la nube, tecnologías nativas de la nube, Linux, IaC, etc.
+- [Recursos de Aprendizaje](./learning-resources/README.md)
 
-## Learning Pathways
-- Find detailed learning pathways for cloud/native computing beginners, with options, ideas, and associated costs for whatever path interests you in cloud computing..
-- [Learning Pathways](./learning-pathways/README.md)
+## Mis Proyectos Personales y Más - Beatsinthe.Cloud
+- Mira cómo implementé **Kubernetes** para desplegar el sitio principal con alta disponibilidad, tolerancia a fallos, CI/CD automatizado y copias de seguridad. Esta configuración me permite concentrarme únicamente en el código y en lo divertido y creativo.
+- Siéntete libre de explorar mis **Despliegues** y hacer un fork del repositorio si lo necesitas para tus propios proyectos.
+- Explora ideas de proyectos de ejemplo, desde simples hasta más desafiantes, que personalmente he probado.
+- [Recorrido del Proyecto BeatsintheCloud](https://github.com/catinahat85/GitGudAtCloudNative/blob/main/Projects/)
 
-## Learning Resources
-- Low-cost/free resources for learning cloud computing, cloud-native, Linux, IaC etc. 
-- [Learning Resources](./learning-resources/README.md)
+## ¿GRATIS?
+- Obtén credenciales profesionales de forma gratuita. Impulsa tu currículum.
+- [Certificaciones Gratuitas](https://github.com/catinahat85/GitGudAtCloudNative/tree/main/learning-resources/freecertifications)
 
-## My Personal Projects & More - Beatsinthe.Cloud
-- See how I implemented **Kubernetes** to deploy the main site with high availability, fault tolerance, automated CI/CD, and backups. This setup allows me to focus solely on code and the fun, creative stuff.
-- Feel free to explore my **Deployments** and fork the repo if you need it for your own projects.
-- Explore example project ideas, from simple to more challenging for you to try out, that I've personally tested.
-- [BeatsintheCloud Project Walkthrough](https://github.com/catinahat85/GitGudAtCloudNative/blob/main/Projects/)
+- Demuestra tus habilidades y obtén credenciales profesionales a bajo costo. Avanza en tu currículum.
+- [Certificaciones de Bajo Costo](https://github.com/catinahat85/GitGudAtCloudNative/tree/main/learning-resources/lowcostcertifications)
 
-
-## FOR FREE?
-- Earn Professional Credentials for free. Kickstart your resume.
-- [Free Certifications](https://github.com/catinahat85/GitGudAtCloudNative/tree/main/learning-resources/freecertifications)
-
-- Prove your skills and earn Professional Credentials a low cost. Further your resume.
-- [Low Cost Certifications](https://github.com/catinahat85/GitGudAtCloudNative/tree/main/learning-resources/lowcostcertifications)
-
-## Spanish Version
-- This repository is also available in Spanish. Click the link below to access all the resources in Spanish.
+## Versión en Ingles
+- Este repositorio también está disponible en español. Haz clic en el enlace a continuación para acceder a todos los recursos en español.
 - [Versión en Español](./spanish-version/README.md)
