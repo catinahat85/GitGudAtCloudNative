@@ -1,4 +1,4 @@
-![Introduction to Cloud Computing Achievement](https://learn.microsoft.com/en-us/training/achievements/researcher-introduction-to-cloud-computing.svg)
+![Introduction to Cloud Computing Achievement](https://yt3.googleusercontent.com/oe2Q9wYI94GnBLTfNmVYR_0B2BvS3E4o6xHHlKZkyWC23EMelJuO32KBxKXAoC9x3jtym7gtwg=s900-c-k-c0x00ffffff-no-rj)
 
 ## Learning Resources & Tools for those new to the Cloud, Containers & Kubernetes
 
