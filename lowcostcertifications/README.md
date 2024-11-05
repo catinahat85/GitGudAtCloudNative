@@ -8,21 +8,6 @@ Get certified for under $150 and validate your skills to advance your career. Th
 - **Issuer**: Tableau
 - **Cost**: $100
 - **Details**: Validates foundational skills in Tableau, focusing on data visualization and analysis.
-  
-### AWS Certified Cloud Practitioner
-- **Issuer**: Amazon Web Services (AWS)
-- **Cost**: $100
-- **Details**: Demonstrates a fundamental understanding of AWS Cloud concepts, services, and terminology.
-
-### Google Cloud Digital Leader
-- **Issuer**: Google
-- **Cost**: $99
-- **Details**: Assesses knowledge of Google Cloud services and their application in business contexts.
-
-### Microsoft Certified: Azure Fundamentals
-- **Issuer**: Microsoft
-- **Cost**: $99
-- **Details**: Covers foundational knowledge of cloud services and how they are provided with Microsoft Azure.
 
 ### Facebook Certified Digital Marketing Associate
 - **Issuer**: Meta (formerly Facebook)
