@@ -29,7 +29,7 @@ Welcome to the repository! Here, you'll find a collection of resources designed 
 ## My Personal Project - Beatsinthe.Cloud
 - See how I implemented **Kubernetes** to deploy the main site with high availability, fault tolerance, automated CI/CD, and backups. This setup allows me to focus solely on code and the fun, creative stuff.
 - Feel free to explore my **Deployments** and fork the repo if you need it for your own projects.
-- [CloudFiLive Project Walkthrough](https://github.com/catinahat85/GitGudAtCloudNative/blob/a436fbed308529cb253e265b5a6ec2c7d6c368c8/My%20Personal%20Project.MD)
+- [BeatsintheCloud Project Walkthrough](https://github.com/catinahat85/GitGudAtCloudNative/blob/main/Projects/)
 
 
 ## FOR FREE?
