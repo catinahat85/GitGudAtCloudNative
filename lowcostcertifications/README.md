@@ -31,6 +31,7 @@ Get certified for under $150 and validate your skills to advance your career. Th
   - [Data Analysis Certifications](#data-analysis-certifications)
     - [IBM](#ibm-data-analysis-certification)
     - [Google](#google-data-analysis-certification)
+  - [Project Management Certifications](#project-management-certifications)
 
 ---
 
@@ -122,11 +123,6 @@ Get certified for under $150 and validate your skills to advance your career. Th
 - **Issuer**: GitLab
 - **Cost**: $150
 - **Details**: Covers GitLab security features, including vulnerability assessment, security workflows, and DevSecOps principles.
-
-#### GitLab Certified Project Management Associate Exam
-- **Issuer**: GitLab
-- **Cost**: $150
-- **Details**: Demonstrates knowledge of GitLab’s project management tools, including issue tracking, milestones, and boards.
 
 #### GitLab Certified CI/CD Associate Exam
 - **Issuer**: GitLab
@@ -256,12 +252,6 @@ Get certified for under $150 and validate your skills to advance your career. Th
 - **Cost**: Varies (typically available on Coursera)
 - **Details**: Covers essential skills for IT support, including system maintenance, software installation, and network configuration.
 
-### IBM IT Certification
-#### IBM IT Project Manager Professional Certificate
-- **Issuer**: IBM
-- **Cost**: Varies (typically available on Coursera)
-- **Details**: Provides training in project management specific to IT environments, covering Agile practices and project planning.
-
 ---
 
 ## Cybersecurity Certifications
@@ -288,9 +278,24 @@ Get certified for under $150 and validate your skills to advance your career. Th
 - **Cost**: Varies (typically available on Coursera)
 - **Details**: Provides a foundation in data analysis, including data cleaning, analysis, visualization, and using tools like SQL and Tableau.
 
+---
+
+## Project Management Certifications
+
+### Google Project Management
 #### Google Project Management Professional Certificate
 - **Issuer**: Google
 - **Cost**: Varies (typically available on Coursera)
 - **Details**: Trains in project management principles with a focus on data-driven project planning and Agile methodology.
 
----
+### IBM Project Management
+#### IBM IT Project Manager Professional Certificate
+- **Issuer**: IBM
+- **Cost**: Varies (typically available on Coursera)
+- **Details**: Provides training in project management specific to IT environments, covering Agile practices and project planning.
+
+### GitLab Project Management
+#### GitLab Certified Project Management Associate Exam
+- **Issuer**: GitLab
+- **Cost**: $150
+- **Details**: Demonstrates knowledge of GitLab’s project management tools, including issue tracking, milestones, and boards.
