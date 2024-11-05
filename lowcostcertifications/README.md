@@ -271,7 +271,7 @@ Get certified for under $150 and validate your skills to advance your career. Th
 ---
 
 ## Data Analysis Certifications
-![Data Analyst Role](https://images.shiksha.com/mediadata/shikshaOnline/mailers/2021/naukri-learning/oct/27oct/what-is-data-analyst.jpg)
+![Data Analyst Role](https://www.simplilearn.com/ice9/free_resources_article_thumb/data_analyticstrendsmin.jpg)
 
 ### IBM Data Analysis Certification
 #### IBM Data Analyst Professional Certificate
