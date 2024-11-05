@@ -14,29 +14,29 @@
 
 ## Evaluación "When 2 Kubernetes" con GPT
 - Utiliza mi instancia personalizada de GPT para evaluar si Kubernetes es adecuado para tu negocio, entrenada para ayudar a pequeñas y medianas empresas a determinar cuándo y cómo implementar Kubernetes.
-- [Evaluar el Despliegue de Kubernetes](https://github.com/catinahat85/GitGudAtCloudNative/blob/main/Projects/When-2-K8s-Evaluation-GPT.md)
+- [Evaluar el Despliegue de Kubernetes](https://github.com/catinahat85/GitGudAtCloudNative/blob/spanish/Projects/When-2-K8s-Evaluation-GPT.md)
 
 ## Rutas de Aprendizaje
 - Encuentra rutas de aprendizaje detalladas para principiantes en computación en la nube/nativa, con opciones, ideas y costos asociados para cualquier ruta que te interese en computación en la nube.
-- [Rutas de Aprendizaje](./learning-pathways/README.md)
+- [Rutas de Aprendizaje](https://github.com/catinahat85/GitGudAtCloudNative/blob/spanish/learning-pathways/README.md)
 
 ## Recursos de Aprendizaje
 - Recursos de bajo costo/gratuitos para aprender computación en la nube, tecnologías nativas de la nube, Linux, IaC, etc.
-- [Recursos de Aprendizaje](./learning-resources/README.md)
+- [Recursos de Aprendizaje](https://github.com/catinahat85/GitGudAtCloudNative/blob/spanish/learning-resources/README.md)
 
 ## Mis Proyectos Personales y Más - Beatsinthe.Cloud
 - Mira cómo implementé **Kubernetes** para desplegar el sitio principal con alta disponibilidad, tolerancia a fallos, CI/CD automatizado y copias de seguridad. Esta configuración me permite concentrarme únicamente en el código y en lo divertido y creativo.
 - Siéntete libre de explorar mis **Despliegues** y hacer un fork del repositorio si lo necesitas para tus propios proyectos.
 - Explora ideas de proyectos de ejemplo, desde simples hasta más desafiantes, que personalmente he probado.
-- [Recorrido del Proyecto BeatsintheCloud](https://github.com/catinahat85/GitGudAtCloudNative/blob/main/Projects/)
+- [Recorrido del Proyecto BeatsintheCloud](https://github.com/catinahat85/GitGudAtCloudNative/blob/spanish/Projects/)
 
 ## ¿GRATIS?
 - Obtén credenciales profesionales de forma gratuita. Impulsa tu currículum.
-- [Certificaciones Gratuitas](https://github.com/catinahat85/GitGudAtCloudNative/tree/main/learning-resources/freecertifications)
+- [Certificaciones Gratuitas](https://github.com/catinahat85/GitGudAtCloudNative/tree/spanish/learning-resources/freecertifications)
 
 - Demuestra tus habilidades y obtén credenciales profesionales a bajo costo. Avanza en tu currículum.
-- [Certificaciones de Bajo Costo](https://github.com/catinahat85/GitGudAtCloudNative/tree/main/learning-resources/lowcostcertifications)
+- [Certificaciones de Bajo Costo](https://github.com/catinahat85/GitGudAtCloudNative/tree/spanish/learning-resources/lowcostcertifications)
 
-## Versión en Ingles
+## Versión en Español
 - Este repositorio también está disponible en español. Haz clic en el enlace a continuación para acceder a todos los recursos en español.
-- [Versión en Español](./spanish-version/README.md)
+- [Versión en Español](https://github.com/catinahat85/GitGudAtCloudNative/blob/spanish/spanish-version/README.md)
