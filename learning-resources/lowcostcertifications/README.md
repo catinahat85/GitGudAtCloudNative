@@ -63,12 +63,6 @@ Get certified for under $150 and validate your skills to advance your career. Th
 - **Cost**: Free
 - **Details**: Demonstrates proficiency in data preparation and analysis using Alteryx Designer.
 
-### Google
-#### Google Analytics Individual Qualification (GAIQ)
-- **Issuer**: Google
-- **Cost**: Free
-- **Details**: Validates proficiency in Google Analytics, covering data collection, processing, configuration, and reporting.
-
 ### Microsoft
 #### Microsoft Certified: Power Platform Fundamentals
 - **Issuer**: Microsoft
