@@ -55,6 +55,13 @@
 - [Fundamentos de Cilium CNI](https://academy.solo.io/learn/courses/78/cilium-cni-basics)
 - [Fundamentos de Istio](https://academy.solo.io/learn/courses/77/istio-basics)
 
+## Alteryx
+- [Designer Cloud Core](https://community.alteryx.com/t5/Certification-Resources/Alteryx-Designer-Cloud-Core-Exam-Prep-Guide/ta-p/1287545) <== NUEVO
+- [Designer Cloud, Trifacta Classic Core Certification](https://community.alteryx.com/t5/Certification-Resources/Designer-Cloud-Trifacta-Classic-Core-Certification-Exam-Prep/ta-p/1065126) <== NUEVO
+- [Designer Cloud, Trifacta Classic Advanced](https://community.alteryx.com/t5/Certification-Resources/Designer-Cloud-Trifacta-Classic-Advanced-Certification-Exam-Prep/ta-p/1065131) <== NUEVO
+- [Designer Cloud, Trifacta Classic Administrator](https://community.alteryx.com/t5/Certification-Resources/Designer-Cloud-Trifacta-Classic-Administrator-Certification-Exam/ta-p/1065134) <== NUEVO
+- [Additional Certifications including Micro Credentials, Designer Desktop & Server](https://community.alteryx.com/t5/Certification-Exams/bd-p/product-certification#micro-credentials) <== NUEVO
+
 ## IBM Cognizant Class
 - [Desarrollador Docker](https://cognitiveclass.ai/badges/docker-essentials)
 - [Contenedores, Microservicios, Kubernetes e Istio en la Nube](https://cognitiveclass.ai/learn/containers-k8s-and-istio-on-ibm-cloud)
