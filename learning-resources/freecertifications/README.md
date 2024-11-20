@@ -56,7 +56,7 @@
 - [Cilium CNI Basics](https://academy.solo.io/learn/courses/78/cilium-cni-basics)
 - [Istio Basics](https://academy.solo.io/learn/courses/77/istio-basics)
 
-## Alteryx
+## Alteryx (link often goes to 403 forbidden, so copy an paste in browser or use search engine to find info on them)
 - [Designer Cloud Core](https://community.alteryx.com/t5/Certification-Resources/Alteryx-Designer-Cloud-Core-Exam-Prep-Guide/ta-p/1287545) <== NEW
 - [Designer Cloud, Trifacta Classic Core Certification](https://community.alteryx.com/t5/Certification-Resources/Designer-Cloud-Trifacta-Classic-Core-Certification-Exam-Prep/ta-p/1065126) <== NEW
 - [Designer Cloud, Trifacta Classic Advanced](https://community.alteryx.com/t5/Certification-Resources/Designer-Cloud-Trifacta-Classic-Advanced-Certification-Exam-Prep/ta-p/1065131) <== NEW
